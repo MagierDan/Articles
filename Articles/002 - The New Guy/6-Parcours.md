@@ -1,0 +1,2 @@
+- Equilibre entre autonmie et pair
+- Todos/ étapes pour le nouveau dans un quickstart (wiki)
