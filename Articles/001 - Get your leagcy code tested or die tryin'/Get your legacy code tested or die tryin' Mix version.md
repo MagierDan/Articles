@@ -1,17 +1,14 @@
-Aujourd'hui Nos applications répondent à de plus en plus de besoins, et ce jusqu'à devenir énormes, gigantesques, "monstrueuses" :)
+Aujourd'hui Nos applications répondent à de plus en plus de besoins, et ce jusqu'à devenir énormes, gigantesques, "monstrueuses" :).
 Il est beaucoup trop rare d'avoir une couverture de tests permettant de refactorer et/ou d'ajouter du fonctionnel sans crainte.
-Commencer des développements sur des nouveaux besoins n'est pas forcément simple (même en TDD), mais lorsqu'il s'agit de refactorer ou modifier du code existant, celà devient très complexe. En effet, il ne faut surtout pas perdre le fonctionnement actuel, qui est le résultat de parfois plusieurs années de modifications. Cela conduit à un comportement implicite de l'application, non conforme à la documentation, hélas devenue obsolète.
+Commencer des développements sur des nouveaux besoins n'est pas forcément chose simple (même en TDD), mais lorsqu'il s'agit de refactorer ou modifier du code existant, celà devient très complexe. En effet, il ne faut surtout pas perdre le fonctionnement actuel, qui est le résultat de parfois plusieurs années de modifications. Cela conduit à un comportement implicite de l'application, non conforme à la documentation, hélas devenue obsolète.
 
-Il existe pourtant des techniques pour nous aider à tendre un filet de sécurité avant de refactorer une fonctionnalité non testée (ou pas assez) . Ces techniques, que nou sverrons par la suite, fonctionnent sur le principe que le code de l'application est une boîte noire : on a un jeu de données en entrée et en sortie. Le but sera de comparer les outputs produits entre différentes implémentations à partir d’un même input. Dans notre cas, il s’agit de comparer les résultats d’exécutions de la version de production avec ceux de la version en cours de réécriture/modification.
+Il existe pourtant des techniques pour nous aider à tendre un filet de sécurité avant de refactorer une fonctionnalité non testée (ou pas assez) . Ces techniques, que nous verrons par la suite, se basent sur le principe que le code de l'application est une boîte noire : on a un jeu de données en entrée et en sortie. Le but sera de comparer les outputs produits entre différentes implémentations à partir d’un même input. Dans notre cas, il s’agira de comparer les résultats d’exécutions de la version de production avec ceux de la version en cours de réécriture/modification.
 Ces méthodes vont surtout varier sur la façon dont on génère le jeu d’inputs.
-
-(pour Dan : qu’est il des fonctions qui délèguent des appels vers l’extérieur. Exemple : un utilisateur de ton moteur de recherche se demande comment on découpe une tête avec un grand sabre, ton système a pour comportement : recherche, création fiche S,  affichage des résultats. Création fiche S n’est pas un output ici.)
-
 
 
 Golden Master (GM)
-——————
-Ici, on sélectionne/génère préalablement un vaste jeu de données (1). On va stocker les résultats d’exécutions de la version « certifiée ». On va appliquer ces mêmes inputs à la version en cours d’écriture. On va ensuite comparer les différences. En fonction des différences, attendues ou non, on acceptera la version modifiée comme le nouveau GM ou on la corrigera. Ceci, jusqu’à ce que la nouvelle version soit acceptée.
+-------------
+Ici, on sélectionne/génère préalablement un vaste jeu de données, que l'on passera en entrée de la version « certifiée ». On stockera ensuite ces outputs. On appliquera par la suite ces mêmes entrées à la version en cours d’écriture. On comparera ensuite les différences entre les sorties de deux versions. En fonction des différences, attendues ou non, on acceptera la version modifiée comme le nouveau GM ou on la corrigera. Ceci, jusqu’à ce que la nouvelle version soit acceptée.
 
 Attention !!! En fonction de la granularité du système que vous testerez, vos états possibles pourront être si nombreux que le jeu d’entrées deviendra rapidement devenir énorme. La génération et surtout la maintenance de celui-ci peuvent rapidement engendrer des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce genre de techniques que pour des refactoring rapides, 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
 
