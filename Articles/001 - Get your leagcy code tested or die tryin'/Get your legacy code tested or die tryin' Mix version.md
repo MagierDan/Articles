@@ -8,7 +8,12 @@ Ces méthodes vont surtout varier sur la façon dont on génère le jeu d’inpu
 
 Golden Master (GM)
 -------------
-Ici, on sélectionne/génère préalablement un vaste jeu de données, que l'on passera en entrée de la version « certifiée ». On stockera ensuite ces outputs. On appliquera par la suite ces mêmes entrées à la version en cours d’écriture. On comparera ensuite les différences entre les sorties de deux versions. En fonction des différences, attendues ou non, on acceptera la version modifiée comme le nouveau GM ou on la corrigera. Ceci, jusqu’à ce que la nouvelle version soit acceptée.
+Avant de refactorer/modifier le code de la version "certifiée" (en règle générale la production), on effectue les actions suivantes:
+* on créé un vaste jeu de données
+* on passe à la méthode à modifier l'ensemble des éléments du précédents jeu de données
+* on stockera ensuite les entrées et les résultats de ces exécutions dans un fichier ou en base par exemple. Cet ensemble entrées-sorties constituera le Goden Master.
+
+Après chaque modification, On appliquera par la suite ces mêmes entrées à la version en cours d’écriture. On comparera ensuite les différences entre les sorties de deux versions. En fonction des différences, attendues ou non, on acceptera la version modifiée comme le nouveau GM ou on la corrigera. Ceci, jusqu’à ce que la nouvelle version soit acceptée.
 
 Attention !!! En fonction de la granularité du système que vous testerez, vos états possibles pourront être si nombreux que le jeu d’entrées deviendra rapidement devenir énorme. La génération et surtout la maintenance de celui-ci peuvent rapidement engendrer des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce genre de techniques que pour des refactoring rapides, 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
 
