@@ -1,8 +1,13 @@
 Aujourd'hui Nos applications répondent à de plus en plus de besoins, et ce jusqu'à devenir énormes, gigantesques, "monstrueuses" :).
 Il est beaucoup trop rare d'avoir une couverture de tests permettant de refactorer et/ou d'ajouter du fonctionnel sans crainte.
-Commencer des développements sur des nouveaux besoins n'est pas forcément chose simple (même en TDD), mais lorsqu'il s'agit de refactorer ou modifier du code existant, celà devient très complexe. En effet, il ne faut surtout pas perdre le fonctionnement actuel, qui est le résultat de parfois plusieurs années de modifications. Cela conduit à un comportement implicite de l'application, non conforme à la documentation, hélas devenue obsolète.
+Commencer des développements sur des nouveaux besoins n'est pas forcément chose simple (même en TDD), mais lorsqu'il s'agit de refactorer ou modifier du code existant, celà devient très complexe.
+En effet, il ne faut surtout pas perdre le fonctionnement actuel, qui est le résultat de parfois plusieurs années de modifications.
+Cela conduit à un comportement implicite de l'application, non conforme à la documentation, hélas devenue obsolète.
 
-Il existe pourtant des techniques pour nous aider à tendre un filet de sécurité avant de refactorer une fonctionnalité non testée (ou pas assez) . Ces techniques, que nous verrons par la suite, se basent sur le principe que le code de l'application est une boîte noire : on a un jeu de données en entrée et en sortie. Le but sera de comparer les outputs produits entre différentes implémentations à partir d’un même input. Dans notre cas, il s’agira de comparer les résultats d’exécutions de la version de production avec ceux de la version en cours de réécriture/modification.
+Il existe pourtant des techniques pour nous aider à tendre un filet de sécurité avant de refactorer une fonctionnalité non testée (ou pas assez).
+Ces techniques, que nous verrons par la suite, se basent sur le principe que le code de l'application est une boîte noire: on ne le comprends pas ou peu.
+On va donc utiliser un jeu de données en entrée et en sortie. Le but sera de comparer les outputs produits entre différentes implémentations à partir d’un même input.
+Dans notre cas, il s’agira de comparer les résultats d’exécutions de la version de production avec ceux de la version en cours de réécriture/modification.
 Ces méthodes vont surtout varier sur la façon dont on génère le jeu d’inputs.
 
 
