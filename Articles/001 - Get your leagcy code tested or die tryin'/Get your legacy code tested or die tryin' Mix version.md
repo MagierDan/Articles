@@ -57,7 +57,7 @@ Chacune de celles-ci possède ses avantages et inconvéninets:
 * Pour le GM et le RaP, leur maintenance peuvent s'avérer coûteuse. Il est parfois moins onéreux de refaire un jeu de tests plus que de maintenir celui déjà créé.
 * Dans le cas de l'Experiment, un bon processus de mise ne production est nécessaire. De plus, une double exécution peut aussi s'avérer lourde en terme de vélocité applicative.
 
-Pourtant malgré ces défauts, le fait d'avoir un filet de sécurité pour le refactoring/évolution du code, permet d'éviter des régressions en production dont le coût est certainement moindre que celui de les fixer.
+Pourtant malgré ces défauts, le fait d'avoir un filet de sécurité pour le refactoring/évolution du code, permet d'éviter des régressions en production. Le fait de fixer celles-ci s'avérera certainement plus coûteux que de générer ce filet de sécurité.
 Par ailleurs, il est conseillé de restreindre la surface applicative du code à modifier. Plus celle-ci sera petite, plus il sera aisé de générer les jeux de tests, et donc de refactorer rapidement sans gêner les autres.
 
 Souvent modifer du code est plus ardu qu'il n'y paraît, tout dépendant de ce dernier et du contexte fonctionnel auquel il se rattache.
