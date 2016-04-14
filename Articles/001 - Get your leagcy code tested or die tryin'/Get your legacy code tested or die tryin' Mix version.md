@@ -20,18 +20,19 @@ Attention !!! En fonction de la granularité du système que vous testerez, vos 
 
 Record and Play (RaP)
 -------------
-Autre technique: le Record and Play (RaP). Toujours dans le but de créer un harnais de tests, le moyen est ici d’enregistrer un ou des scénarii d’utilisation de l’application via une IHM. Puis de rejouer ces scénarii sur les deux plateformes et comparer les résultats.
-Généralement, c’est Sélénium qui est utilisé pour enregistrer ces scénarii. 
-Ces tests sont cependant assez fragiles car en plus du système sous-jacent, les résultats d’exécutions dépendent de l’IHM. Pour que les résultats soient exploitables, il faut donc figer l’IHM en plus du système à tester. Le nombre de personnes impactées par ce refactoring augmente. La difficulté aussi.
+Autre technique: le Record and Play (RaP). Toujours dans le but de créer un harnais de tests, le moyen est ici d’enregistrer un ou des scénarii d’utilisation de l’application via une IHM. Une fois le code modifié, comme pour le GM, on rejoue les tests.
+Si nous sommes dans le cas d'un refactoring, le fait de relancer les tests doit conduire aux mêmes résultats, sinon on corrige les modifications effectuées. Dans le cas d'une modfication, on vérifie que la résultat de la modifcation correspond bien à ce qui est attendu, et on réenregistre la séquence pour ce cas de tests.
 
- Leur maintenance s'avère par ailleurs plus pénible que celle du GM. 
--> tu peux en dire plus ?
-Il existe aussi d'autres outils payant qui permettent aussi de tester des applications desktop ou mobile, par exemple Ranorex.
--> soit tu en dis plus sur Ranorex (avantages, inconvénients) soit tu ne dis rien
-Il est possible d'utiliser Sélénium autrement qu'en RaP et d'écrire du tests plus facilement maintenance.
--> à ce moment là, explique comment ?  
-Je conseillerais dans ce cas la librairie Simplelenium.
--> pourquoi ?
+Généralement, c’est Sélénium qui est utilisé pour enregistrer ces scénarii pour une application web.
+Ces tests sont cependant assez fragiles car en plus du système sous-jacent, les résultats d’exécutions dépendent de l’IHM. Pour que les résultats soient exploitables, il faut donc figer l’IHM en plus du système à tester. Plus le nombre de personnes impactées par ce refactoring augmente, plus la difficulté augmente aussi.
+Leur maintenance s'avère par ailleurs plus pénible que celle du GM car à la moindre modification, il faut réenregistrer toute une séquence, ou bien modifier la valeur de certains résultats dans les tests fichiers de tests.
+
+Il existe d'autres outils de RaP tel que Sélénium. certains sont payants et permettent de tester aussi des applications desktop ou mobile ()par exemple Ranorex).
+
+Par ailleurs, il est possible d'utiliser Sélénium autrement qu'en RaP. Pour cela, nous écrivons les tests directment dans un langage comme java. Si cela est convenablement fait, les tests sont plus facilement maintenance.
+Je vous renvoie pour cela vers l'utilisation du patten PageObject.
+Je conseillerais dans ce cas la librairie [Simplelenium](https://github.com/dgageot/simplelenium), qui gère mieux certaines problèmatiques de timing, et propose plus de méthodes permettant de rendre vos tests plus "human-readable".
+
 
 Technique de Sequential Runs ou Experiment
 -------------
