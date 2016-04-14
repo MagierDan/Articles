@@ -14,11 +14,8 @@ Avant de refactorer/modifier le code de la version "certifiée" (en règle gén�
 * on stockera ensuite les entrées et les résultats de ces exécutions dans un fichier ou en base par exemple. Cet ensemble entrées-sorties constituera le Goden Master.
 
 Après chaque modification de code, on réexecute le jeu de tests précédents. Dans le cas d'un refactoring, s'il y a une différence dans les résultats on corrige le tir. Dans le cas d'une modification fonctionnelle, si différence il y a, on vérifie que le nouveau résultat correspond bien à ce qui est attendu. Si c'est le cas, nous modifions le GM pour prendre en compte ce nouveau résultat et obtenons ainsi un nouveau GM, sinon on corrige le tir.
-On appliquera par la suite ces mêmes entrées à la version en cours d’écriture. On comparera ensuite les différences entre les sorties de deux versions. En fonction des différences, attendues ou non, on acceptera la version modifiée comme le nouveau GM ou on la corrigera. Ceci, jusqu’à ce que la nouvelle version soit acceptée.
 
-Attention !!! En fonction de la granularité du système que vous testerez, vos états possibles pourront être si nombreux que le jeu d’entrées deviendra rapidement devenir énorme. La génération et surtout la maintenance de celui-ci peuvent rapidement engendrer des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce genre de techniques que pour des refactoring rapides, 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
-
-(1) explique comment on génère, ou donne des exemples, selon ce que j’ai compris le RecordAndReplay est un sous ensemble du GM
+Attention !!! En fonction de la granularité du système que vous testerez, vos états possibles pourront être nombreux. Le jeu d’entrées pourra rapidement devenir énorme. La génération et surtout la maintenance de celui-ci peuvent rapidement engendrer des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce genre de techniques que pour des refactorings rapides, 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
 
 
 Record and Play (RaP)
