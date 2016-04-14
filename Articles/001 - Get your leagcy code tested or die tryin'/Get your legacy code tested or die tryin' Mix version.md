@@ -56,9 +56,11 @@ Les différentes méthodes évoquées permmettent d'avoir relativement rapidemen
 Chacune de celles-ci possède ses avantages et inconvéninets:
 * Pour le GM et le RaP, leur maintenance peuvent s'avérer coûteuse. Il est parfois moins onéreux de refaire un jeu de tests plus que de maintenir celui déjà créé.
 * Dans le cas de l'Experiment, un bon processus de mise ne production est nécessaire. De plus, une double exécution peut aussi s'avérer lourde en terme de vélocité applicative.
+
 Pourtant malgré ces défauts, le fait d'avoir un filet de sécurité pour le refactoring/évolution du code, permet d'éviter des régressions en production dont le coût est certainement moindre que celui de les fixer.
 Par ailleurs, il est conseillé de restreindre la surface applicative du code à modifier. Plus celle-ci sera petite, plus il sera aisé de générer les jeux de tests, et donc de refactorer rapidement sans gêner les autres.
 
 Les solutions présentées ici peuvent matcher ou non votre besoin. Souvent modifer du code est plus ardu qu'il n'y paraît, tout dépend de ce dernier et du contexte fonctionnel auquel il est rattaché.
+
 J'espère que vous aurez trouver ici de quoi vous aider dans cette opération si jamais vou svous retrouvez dans un contexte où ces méthodes peuvent vous aider.
 Bon courage sur la maintenace de votre legacy.
