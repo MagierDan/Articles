@@ -35,22 +35,18 @@ Je conseillerais dans ce cas la librairie Simplelenium.
 
 Technique de Sequential Runs
 -------------
-Voici la dernière technique que j’aborderais dans ce le cadre de cet article, le Sequential Runs.
-Commençons par un exemple : 
+Voici la dernière technique abordée dans le cadre de cet article, le Sequential Runs.
 Lorsque GitHub a décidé de réécrire sa fonction de merge, il leur était impossible de prévoir à l’avance les différents cas qui allaient se présenter. Impossible donc de sélectionner des cas d’utilisation et de générer les inputs correspondants.
-Le plus sûr était donc de comparer ce qui se passait sur la prod avec une version refactorée. Pour ce faire, il faut envoyer 2 implémentations d’une même fonctionnalité en production, une effective, l’autre dormante. 
-Lorsque la fonctionnalité est utilisée, les inputs sont envoyés en parallèle aux deux versions. Les résultats des 2 exécutions sont enregistrés et comparés(4). Attention, seuls les résultats de la version legacy sont utilisées pour la suite de l’interaction avec l’utilisateur.
+Le plus sûr était donc de comparer ce qui se passait sur la prod avec une version refactorée. Pour ce faire, il faut envoyer deux implémentations d’une même fonctionnalité en production, une effective, l’autre "dormante".
+Lorsque la fonctionnalité est utilisée, les inputs sont envoyés à chacune de ces deux versions. Les résultats des deux exécutions sont enregistrés et comparés(4). Attention, seuls les résultats de la version legacy sont utilisées pour la suite de l’interaction avec l’utilisateur.
 
 En comparant à chaque appel de la méthode de merge, les résultats obtenus par la version legacy et la version en cours de refactoring, il est possible de combler petit à petit les différences et de détecter les fonctionnements précisés ni dans les specs ni les tests. 
 Au fur et à mesure de cette amélioration continue, les différences se sont amenuisées jusqu’à ce que la nouvelle version devienne la version de production. Ceci, sans que jamais les utilisateurs en pâtissent.
 Je rappelle que lors de la phase de comparaison, la vérité est et reste le code legacy. Seule son exécution est prise en compte pour tout ce qui est traitement fait par l’utilisateur.
 Lors de la bascule, il suffit de remplacer l’appel à l’ancien code par un appel au nouveau.
 
-Pour en savoir plus sur la façon dont à procédé GitHub, je vous invite à lire cet article(2) présentant le framework Ruby nommé « Scientist » créé à l’occasion. Il faut signaler qu’un portage Java de ce framework existe et s’appelle « Experiment4J »(3) 
+Pour en savoir plus sur la façon dont à procédé GitHub, je vous invite à lire cet [article](http://githubengineering.com/move-fast/) présentant le framework Ruby nommé « Scientist » créé à l’occasion. Il faut signaler qu’un portage Java de ce framework existe et s’appelle « Experiment4J » trouvable [ici](https://github.com/dannwebster/experiment4j)
 
-
-(2) source de l’article
-(3) lien vers le framework
 (4) en live ? a postériori ? les deux ? ça dépend du contexte ?
 
 En conclusion, je pense que ces méthodes utilisant d’énormes quantités de tests, comportent quand même quelques risques au delà du coût de génération/sélections des inputs ou du surcout d’un double run. 
