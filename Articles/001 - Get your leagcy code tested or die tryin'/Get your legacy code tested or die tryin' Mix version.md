@@ -32,16 +32,16 @@ Généralement, c’est Sélénium qui est utilisé pour enregistrer ces scénar
 Ces tests sont cependant assez fragiles car en plus du système sous-jacent, les résultats d’exécutions dépendent de l’IHM. Pour que les résultats soient exploitables, il faut donc figer l’IHM en plus du système à tester. Plus le nombre de personnes impactées par ce refactoring augmente, plus la difficulté augmente aussi.
 Leur maintenance s'avère par ailleurs plus pénible que celle du GM car à la moindre modification, il faut réenregistrer toute une séquence, ou bien modifier la valeur de certains résultats dans les tests fichiers de tests.
 
-Il existe d'autres outils de RaP tel que Sélénium. certains sont payants et permettent de tester aussi des applications desktop ou mobile ()par exemple Ranorex).
+Il existe d'autres outils de RaP tel que Sélénium. certains sont payants et permettent de tester aussi des applications desktop ou mobile (par exemple Ranorex).
 
-Par ailleurs, il est possible d'utiliser Sélénium autrement qu'en RaP. Pour cela, nous écrivons les tests directment dans un langage comme java. Si cela est convenablement fait, les tests sont plus facilement maintenance.
-Je vous renvoie pour cela vers l'utilisation du patten PageObject.
+Par ailleurs, il est possible d'utiliser Sélénium autrement qu'en RaP. Pour cela, nous écrivons les tests directement dans un langage comme java. Si cela est convenablement fait, les tests sont plus facilement maintenables.
+Je vous renvoie pour cela vers l'utilisation du patten PageObject dont une description est disponible [ici](http://www.assertselenium.com/automation-design-practices/page-object-pattern/).
 Je conseillerais dans ce cas la librairie [Simplelenium](https://github.com/dgageot/simplelenium), qui gère mieux certaines problèmatiques de timing, et propose plus de méthodes permettant de rendre vos tests plus "human-readable".
 
 
-Technique de Sequential Runs ou Experiment
+Technique d'Experiment
 -------------
-Voici la dernière technique abordée dans le cadre de cet article, l'Experiment/Sequential Runs.
+Voici la dernière technique abordée dans le cadre de cet article, l'Experiment.
 Lorsque GitHub a décidé de réécrire sa fonction de merge, il leur était impossible de prévoir à l’avance les différents cas qui allaient se présenter. Impossible donc de sélectionner des cas d’utilisation et de générer les inputs correspondants.
 Le plus sûr était donc de comparer ce qui se passait sur la production avec une version refactorée. Pour ce faire, il faut envoyer deux implémentations d’une même fonctionnalité en production, une effective (le contrôle), l’autre "dormante" (la candidate).
 Lorsque la fonctionnalité est utilisée, les inputs sont passées à chacune de ces deux versions. Les résultats des deux exécutions sont enregistrés et comparés directement. Si des exceptions ou des différences sont rencontrées entre les deux versions, celles-ci sont logguées dans l'interface web de Scientist. Seuls les résultats de la version legacy sont utilisés pour la suite de l’interaction avec l’utilisateur, le fait d'avoir cette double exécution étant complètement transparente pour lui.
