@@ -111,4 +111,4 @@ sera pas forcément le cas pour le vôtre.
 Dans tous les cas, bon courage à tous pour la maintenace de votre legacy.
 
 
-Un grand merci à Rapahël SQUELBUT pour sa relecture, et son aide à la réécriture de cet article.
+Un grand merci à Rapahël SQUELBUT pour sa relecture, et son aide à la réécriture de cet article ^^.
