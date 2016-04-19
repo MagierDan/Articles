@@ -108,17 +108,18 @@ les jeux de tests sont purement et simplement supprimés.
 
 Les différentes techniques détaillées dans cet article, sont celles que j'ai trouvé afin de répondre aux besoins que j'ai rencontrés.
 J'ai utilisé le GM et le RaP par programmation en Java à plusieurs reprises et cela a donné de très bons résultats.
-Pour le GM, c'était dans le cas d'un injecteur (trop) intelligent de documents. Des règles métiers le constituait. J'ai du
+* Pour le GM, c'était dans le cas d'un injecteur (trop) intelligent de documents. Des règles métiers le constituait. J'ai du
 donc créé un jeu de documents à injecter (mon GM) qui constituait mes tests. A chaque évolution, on relancait l'intégralité des tests.
 Cela m'a prémunis de certaines regressiosn que je n'avais pas constaté lors de l'écriture de code.
-Pour le RaP, j'ai écrit des tests end-to-end de ce que faisait l'application. L'application était assez petite, donc j'ai
+* Pour le RaP, j'ai écrit des tests end-to-end de ce que faisait l'application. L'application était assez petite, donc j'ai
 pu couvrir l'ensemble des cas nominaux.
 Ma chance était que dans ces deux cas le nombre de tests à écrire était relativement petit par rapport à d'autres applications
 (mais nombreux quand même). Cela a permis de ne pas les jetter mais de les maintenir.
+
 Dans d'autres cas, les applications étaient un peu plus grande fonctionnellement parlant que les deux précédentes. L'écriture
-des tests et leur maintenace étaient un peu plus ardu du fait de la volumétrie, mais ils étaient toujours maintenables.
-Les seuls soucis rencontrés furent lorsqu'une autre feature team a refait une interface web sans nou sen informer. Les tests
-n'étaient plus bons et il a fallu réadpter les tests à l'IHM.
+des tests et leur maintenace étaient un peu plus ardu du fait de la volumétrie "applicative", mais ils étaient toujours maintenables.
+Les seuls soucis rencontrés furent lorsqu'une autre feature team a refait une interface web sans nous en informer. Les tests
+n'étaient plus bons et il a fallu les réadpter à l'IHM.
 
 Mais comme toutes les techniques, ce ne sont pas forcément des silver-bullets. Ce qui correspondait à mon contexte ne
 sera pas forcément le cas pour le vôtre.
