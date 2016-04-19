@@ -127,4 +127,6 @@ sera pas forcément le cas pour le vôtre.
 Dans tous les cas, bon courage à tous pour la maintenace de votre legacy.
 
 
-Un grand merci à Rapahël SQUELBUT pour sa relecture, et son aide à la réécriture de cet article ^^.
+Un grand merci à tous les relecteurs ([Cyrille MARTRAIRE](https://twitter.com/cyriux), [Houssam FAKIH](https://twitter.com/houssamfakih),
+[Nicolas FEDOU](https://twitter.com/CoulasFedou), [Fabien MAURY](https://twitter.com/MrCafetux), [Luc DAIGREMONT](https://twitter.com/DaigremontLuc)) et
+surtout à [Rapahël SQUELBUT]() pour son aide précieuse dans l'écriture de cet article.
