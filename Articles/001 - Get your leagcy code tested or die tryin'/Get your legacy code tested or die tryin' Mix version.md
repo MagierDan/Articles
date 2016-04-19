@@ -6,8 +6,8 @@ En effet, il ne faut surtout pas perdre le fonctionnement actuel, qui est le ré
 Cela conduit à un comportement implicite de l'application, non conforme à la documentation, hélas devenue obsolète.
 
 Il existe pourtant des techniques pour nous aider à tendre un filet de sécurité avant de refactorer une fonctionnalité non testée (ou pas assez).
-Ces techniques, que nous verrons par la suite, se basent sur le principe que le code de l'application est une boîte noire:
-on ne le comprends pas ou peu.
+Ces techniques, que nous verrons par la suite, se basent sur le principe que le code de l'application est une "boîte noire":
+on le comprends peu ou pas assez (certains diront même pas du tout) et nous allons tout faire pour en modifier le minimum ou bien le réécrire.
 On va donc utiliser un jeu de données en entrée et en sortie. Le but sera de comparer les outputs produits entre différentes
 implémentations à partir d’un même input.
 Dans notre cas, il s’agira de comparer les résultats d’exécutions de la version de production avec ceux de la version en
@@ -37,7 +37,8 @@ des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce
 Record and Play (RaP)
 -------------
 Autre technique: le Record and Play (RaP). Toujours dans le but de créer un harnais de tests, le moyen est ici d’enregistrer
-un ou des scénarii d’utilisation de l’application via une IHM. Une fois le code modifié, comme pour le GM, on rejoue les tests.
+un ou des scénarii d’utilisation de l’application dans son IHM (web, mobile ou desktop). Une fois le code modifié, comme
+pour le GM, on rejoue les tests.
 Si nous sommes dans le cas d'un refactoring, le fait de relancer les tests doit conduire aux mêmes résultats, sinon on corrige
 les modifications effectuées. Dans le cas d'une modfication, on vérifie que la résultat de la modifcation correspond bien
 à ce qui est attendu, et on réenregistre la séquence pour ce cas de tests.
@@ -102,9 +103,23 @@ Pourtant malgré ces défauts, le fait d'avoir un filet de sécurité pour le re
 des régressions en production. Le fait de fixer celles-ci s'avérera certainement plus coûteux que de générer ce filet de sécurité.
 Par ailleurs, il est conseillé de restreindre la surface applicative du code à modifier. Plus celle-ci sera petite, plus
 il sera aisé de générer les jeux de tests, et donc de refactorer rapidement sans gêner les autres.
+Pour ces méthodologies, Le plus souvent dans le cadre d'un refactoring, une fois celui-ci effectué et validé,
+les jeux de tests sont purement et simplement supprimés.
 
 Les différentes techniques détaillées dans cet article, sont celles que j'ai trouvé afin de répondre aux besoins que j'ai rencontrés.
 J'ai utilisé le GM et le RaP par programmation en Java à plusieurs reprises et cela a donné de très bons résultats.
+Pour le GM, c'était dans le cas d'un injecteur (trop) intelligent de documents. Des règles métiers le constituait. J'ai du
+donc créé un jeu de documents à injecter (mon GM) qui constituait mes tests. A chaque évolution, on relancait l'intégralité des tests.
+Cela m'a prémunis de certaines regressiosn que je n'avais pas constaté lors de l'écriture de code.
+Pour le RaP, j'ai écrit des tests end-to-end de ce que faisait l'application. L'application était assez petite, donc j'ai
+pu couvrir l'ensemble des cas nominaux.
+Ma chance était que dans ces deux cas le nombre de tests à écrire était relativement petit par rapport à d'autres applications
+(mais nombreux quand même). Cela a permis de ne pas les jetter mais de les maintenir.
+Dans d'autres cas, les applications étaient un peu plus grande fonctionnellement parlant que les deux précédentes. L'écriture
+des tests et leur maintenace étaient un peu plus ardu du fait de la volumétrie, mais ils étaient toujours maintenables.
+Les seuls soucis rencontrés furent lorsqu'une autre feature team a refait une interface web sans nou sen informer. Les tests
+n'étaient plus bons et il a fallu réadpter les tests à l'IHM.
+
 Mais comme toutes les techniques, ce ne sont pas forcément des silver-bullets. Ce qui correspondait à mon contexte ne
 sera pas forcément le cas pour le vôtre.
 
