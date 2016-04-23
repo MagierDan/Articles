@@ -34,7 +34,7 @@ des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce
 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
 
 
-Record and Play (RaP) / Code and Play (Cap)
+Record and Play (RaP) / Code and Play (CaP)
 -------------
 Autre technique: le Record and Play (RaP). Toujours dans le but de créer un harnais de tests, le moyen est ici d’enregistrer
 un ou des scénarios d’utilisation de l’application dans son IHM (web, mobile ou desktop). Une fois le code modifié, comme
