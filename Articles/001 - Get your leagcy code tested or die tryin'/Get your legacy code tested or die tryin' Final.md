@@ -91,7 +91,7 @@ On en déduit que Github bénéficie d'un processus de mise en production bien r
 Un petit retour d'expérience
 -------------
 Les différentes techniques détaillées dans cet article, sont celles que j'ai trouvées afin de répondre aux besoins que j'ai rencontrés.
-J'ai utilisé le GM et le RaP par programmation en Java à plusieurs reprises et cela a donné de très bons résultats.
+J'ai utilisé le GM et le CaP en Java à plusieurs reprises et cela a donné de très bons résultats.
 * Pour le GM, c'était dans le cas d'un injecteur (trop) intelligent de documents. Des règles métiers le constituaient. J'ai du
 donc créé un jeu de documents à injecter (mon GM) qui constituait mes tests. A chaque évolution, on relancait l'intégralité des tests.
 Cela m'a prémuni de certaines régressions que je n'avais pas constaté lors de l'écriture de code.
