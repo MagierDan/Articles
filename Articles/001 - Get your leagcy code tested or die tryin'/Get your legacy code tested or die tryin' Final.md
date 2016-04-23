@@ -34,7 +34,7 @@ des coûts prohibitifs. C’est pourquoi il sera préférable de n’utiliser ce
 1, 2 ou 3 sprints, en n’embarquant aucune modification fonctionnelle.
 
 
-Record and Play (RaP)
+Record and Play (RaP) / Code and Play (Cap)
 -------------
 Autre technique: le Record and Play (RaP). Toujours dans le but de créer un harnais de tests, le moyen est ici d’enregistrer
 un ou des scénarios d’utilisation de l’application dans son IHM (web, mobile ou desktop). Une fois le code modifié, comme
@@ -54,7 +54,7 @@ Il existe d'autres outils de RaP tel que ce dernier. Certains sont payants et pe
 desktop ou mobile (par exemple Ranorex).
 
 Par ailleurs, il est possible d'utiliser Sélénium autrement qu'en RaP. Pour cela, nous écrivons les tests directement dans
-un langage comme java. Si cela est convenablement fait, les tests sont plus facilement maintenables.
+un langage comme java, ce que nous appellerons ici Code and Play (CaP). Si cela est convenablement fait, les tests sont plus facilement maintenables.
 Je vous renvoie pour cela vers l'utilisation du patten PageObject dont une description est disponible [ici](http://www.assertselenium.com/automation-design-practices/page-object-pattern/).
 Je conseillerais dans ce cas la librairie [Simplelenium](https://github.com/dgageot/simplelenium), qui gère mieux certaines
 problèmatiques de timing, et propose plus de méthodes permettant de rendre vos tests plus "human-readable".
@@ -95,7 +95,7 @@ J'ai utilisé le GM et le RaP par programmation en Java à plusieurs reprises et
 * Pour le GM, c'était dans le cas d'un injecteur (trop) intelligent de documents. Des règles métiers le constituaient. J'ai du
 donc créé un jeu de documents à injecter (mon GM) qui constituait mes tests. A chaque évolution, on relancait l'intégralité des tests.
 Cela m'a prémuni de certaines régressions que je n'avais pas constaté lors de l'écriture de code.
-* Pour le RaP, j'ai écrit des tests end-to-end de ce que faisait l'application. L'application était assez petite, donc j'ai
+* Pour le CaP, j'ai écrit des tests end-to-end de ce que faisait l'application. L'application était assez petite, donc j'ai
 pu couvrir l'ensemble des cas nominaux.
 Ma chance était que dans ces deux cas le nombre de tests à écrire était relativement petit par rapport à d'autres applications
 (mais nombreux quand même). Cela a permis de ne pas les jeter mais de les maintenir.
@@ -126,8 +126,3 @@ Mais comme toutes les techniques, ce ne sont pas forcément des silver-bullets. 
 sera pas forcément le cas pour le vôtre.
 
 Dans tous les cas, bon courage à tous pour la maintenace de votre legacy.
-
-
-Un grand merci à tous les relecteurs ([Cyrille MARTRAIRE](https://twitter.com/cyriux), [Houssam FAKIH](https://twitter.com/houssamfakih),
-[Nicolas FEDOU](https://twitter.com/CoulasFedou), [Fabien MAURY](https://twitter.com/MrCafetux), [Luc DAIGREMONT](https://twitter.com/DaigremontLuc)) et
-surtout à [Rapahël SQUELBUT]() pour son aide précieuse dans l'écriture de cet article.
