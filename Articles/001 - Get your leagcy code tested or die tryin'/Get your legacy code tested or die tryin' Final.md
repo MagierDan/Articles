@@ -119,7 +119,7 @@ Pourtant malgré ces défauts, le fait d'avoir un filet de sécurité pour le re
 des régressions en production. Le fait de fixer celles-ci s'avérera certainement plus coûteux que de générer ce filet de sécurité.
 Par ailleurs, il est conseillé de restreindre la surface applicative du code à modifier. Plus celle-ci sera petite, plus
 il sera aisé de générer les jeux de tests, et donc de refactorer rapidement sans gêner les autres.
-Pour ces méthodologies, Le plus souvent dans le cadre d'un refactoring, une fois celui-ci effectué et validé,
+Pour ces méthodologies, le plus souvent dans le cadre d'un refactoring, une fois celui-ci effectué et validé,
 les jeux de tests sont purement et simplement supprimés.
 
 Mais comme toutes les techniques, ce ne sont pas forcément des silver-bullets. Ce qui correspondait à mon contexte ne
