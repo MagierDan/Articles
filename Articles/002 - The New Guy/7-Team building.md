@@ -1,0 +1,3 @@
+- Petit déj/ soirée / Alcool / Partager
+- Sport / jeux vidéo / baby foot
+- faire des katas ensemble
