@@ -1,4 +1,6 @@
-- Pair programming
+Il existe plusieurs techniques/méthodes pour intégrer au mieux un nouveau
+
+- le pair programming
 - Faire des feedbacks réguliers : rapports d'étonnments, points
 réguliers
 - Echanges avecc le métier: formation métier pour tous les nouveaux arrivants
