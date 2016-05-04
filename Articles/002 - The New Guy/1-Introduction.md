@@ -22,11 +22,10 @@ fois perte de temps ...
 (je dois finir pour hier, j'enchaine les calls, j'peux pas j'ai aquaponey ^^, etc ...)
 
 Il n'y pas de raccourcis, et l'intégration d'un nouveau doit se préparer, et chaque membre de l'équipe doit y mettre du
-sien.
-
+sien. Cela commence même lors du processus de recrutement.
 
 Au niveau de l'onboarding, le nouveau possède un regard nouveau sur le process. Il peut faire des retours dessus, sur le
- bon comme le moins bon dans cette étape d'intégration.
+bon comme le moins bon dans cette étape d'intégration.
 Au niveau de l'équipe, cela lui permet de tester ce process et de l'améliorer au fil du temps afin d'être plus simple,
 plus original, plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
