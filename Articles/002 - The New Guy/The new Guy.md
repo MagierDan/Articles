@@ -82,6 +82,8 @@ De même le caractère/humeur de certains membres de l'équipe peut s'avérer no
 
 Il faudra donc faire attention à ces points qui pourrait même pousser dans de cas extremes à partir le petit nouveau.
 
+### La logistique
+
 ### Methodology
 
 ### Environnement
