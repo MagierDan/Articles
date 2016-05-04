@@ -19,7 +19,7 @@ Golden Master (GM)
 -------------
 Avant de refactorer/modifier le code de la version "certifiée" (en règle générale la production), on effectue les actions suivantes:
 * on créé un vaste jeu de données (de manière aléatoire ou non)
-* on passe à la méthode à modifier l'ensemble des éléments du précédents jeu de données
+* on passe en entrée de la méthode à modifier chacun des éléments du précédent jeu de données
 * on stockera ensuite les entrées et les résultats de ces exécutions dans un fichier ou en base par exemple. Cet ensemble
 entrées-sorties constituera le Golden Master.
 
