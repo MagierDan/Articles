@@ -10,3 +10,7 @@ fonctionnel
 - Macro vers Micro : on explique de manière générale le métier puis on devient de plus en plus spécifique
 - Micro vers Macro: : on donne des développements spécifiques à faire, et plus le temps passe et plus on donne des
 devs transverses au nouveau
+
+
+- d'un point de vue documentation pour la montée en connaissances, cette première est bien souvent obsolète. Encore une
+fois perte de temps ...
