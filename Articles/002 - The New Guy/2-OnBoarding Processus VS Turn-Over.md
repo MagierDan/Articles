@@ -1,7 +1,15 @@
-Relation entre l'onboarding et le turn-over: un lien de causes à effets
+Il existe une relation bi-directionnele entre l'onboarding et le turn-over, un lien de causes à effets.
 
-Parfois l'onbaording resulte du fait d'un fort taux de turn-over et d'un besoin d'intégrer rapidement des nouveaux.
-dans ce cas, peut être y a t-il un soucis dans le management et peut être qu'il faudrait aussi corriger ce probblème.
-Un fort taux de turn-over est fortement préjudiciable à l'onboarding car les nouveaux le seront et n'hésiteront peut
-être pas à partir ailleurs.
+Parfois le besoin dun process d'onbaording resulte du fait d'un fort taux de turn-over. Il faut donc pouvoir intégrer
+rapidement des nouveaux.
+Dans ce cas, peut être y a-t-il un soucis dans le management. Peut-être faudrait-il surtout cerner et corriger ce probblème.
+Un fort taux de turn-over est fortement préjudiciable à l'onboarding; les nouveaux verront un jour le problème voire le
+subiront et n'hésiteront peut être pas à partir ailleurs. Ici le conseil serait avant tout de prévenir plutôt que guérir.
+
+Dans l'autre sens, le turn-over peut résulter d'un mauvais processus d'onbaording.
+Rappelez-vous des travers cités dans l'introduction. Imaginez-vous dès lors dans le cas du petit nouveau. Celui qui ne peut
+rien faire pendant un mois, car ne possèdant ni badge, ni compte ni ordinateur. Imaginez aussi qu'une fois ces sésames
+obtenus, personne n'ait le temps pour l'intégrer et que la documentation fournie soit obsolète.
+Relativement rapidement, cette personne pourrait en avoir assez et souhiatera s'en aller vers de plus verts paturages.
+Encore une fois mettez-vous à sa place et imaginez ce que vous feriez ...
 
