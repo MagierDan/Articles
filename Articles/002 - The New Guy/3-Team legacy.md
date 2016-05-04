@@ -1,8 +1,6 @@
-Attention au legacy de l'équipe.
-
-Le legacy peut nuire fortement à l'intégration d'un nouveau. Il doit faire sienne la base de code présente avec ses bons
-et ses mauvais côtés; soyons honnêtes, il y a plus souvent du mauvais que du bon quand on parle de legacy.
-De facto, combattre le legacy en réduisant la dette peut aider fortement dans cette tâche.
+Attention au legacy de l'équipe car il  peut nuire fortement à l'intégration d'un nouveau. Il doit faire sienne la base
+de code présente avec ses bons et ses mauvais côtés; soyons honnêtes, il y a plus souvent du mauvais que du bon quand on
+parle de legacy. De facto, combattre le legacy en réduisant la dette peut aider fortement dans cette tâche.
 
 Par contre le legacy ne se traduit pas forcément que par du code. Il peut prendre d'autres formes.
 Les relations internes comme externes à l'équipe en font partie. Le legacy peut s'avérer être positif dans le cas où
