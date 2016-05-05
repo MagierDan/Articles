@@ -7,9 +7,11 @@ Un fort taux de turn-over est fortement préjudiciable à l'onboarding; les nouv
 subiront et n'hésiteront peut être pas à partir ailleurs. Ici le conseil serait avant tout de prévenir plutôt que guérir.
 
 Dans l'autre sens, le turn-over peut résulter d'un mauvais processus d'onbaording.
-Rappelez-vous des travers cités dans l'introduction. Imaginez-vous dès lors dans le cas du petit nouveau. Celui qui ne peut
-rien faire pendant un mois, car ne possèdant ni badge, ni compte ni ordinateur. Imaginez aussi qu'une fois ces sésames
-obtenus, personne n'ait le temps pour l'intégrer et que la documentation fournie soit obsolète.
+Imaginez-vous dès lors dans le cas du petit nouveau. Celui qui ne peut ien faire pendant un mois, car ne possèdant ni
+badge, ni compte ni ordinateur. Imaginez aussi qu'une fois ces sésames obtenus, personne n'ait le temps pour l'intégrer
+et que la documentation fournie soit obsolète.
 Relativement rapidement, cette personne pourrait en avoir assez et souhiatera s'en aller vers de plus verts paturages.
 Encore une fois mettez-vous à sa place et imaginez ce que vous feriez ...
+A l'inverse un bon processus d'onboarding permettra à un nouveau de mieux s'intégrer dans l'équipe et de lui faire envie
+de rester dans celle-ci résulant par la même à une diminution du turn-over.
 

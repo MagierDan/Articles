@@ -7,12 +7,12 @@ besoin".
 A cette époque, j'étais dans une SSII qui me louait à d'autres SSII. Nous étions sur un projet pour un gros compte. Les
 délais étaient tendus. Comme vous pouvez vous en doutez John n'avait pas les connaissances escomptées, et l'ensemble de
 l'équipe a dû passer du temps avec lui pour le faire monter en compétences.
-Le projet a pris du retard, certains membres de l'équipe n'étaient pas ravi de s'être vu imposé quelqu'un mais John était
+Le projet a pris du retard, certains membres de l'équipe n'étaient pas ravis de s'être vu imposé quelqu'un mais John était
 de bonne volonté et apprenait vite.
 Mais tout le monde n'est pas comme John. Vous pouvez parfois tomber sur quelqu'un qui ne fait pas d'efforts ou bien qui
-travaille peu.
+travaille peu et/ou mal.
 
-Comment éviter cela ? En faisant participer l'équipe au processus de recrutement.
+Comment éviter cela ? Simplement en faisant participer l'équipe au processus de recrutement.
 Bien entendu, cela n'a pas besoin d'être forcément à 100% pour chacun des membres.
 L'équipe définit le profil de la personne recherchée, prépare les entretiens et les fait passer.
 Il est important que celle-ci s'implique dans ce process car la nouvelle personne va en devenir un membre à
