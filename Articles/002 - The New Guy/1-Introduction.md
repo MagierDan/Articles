@@ -11,15 +11,13 @@ Dès lors, comment faire pour minimiser celle-ci et optimiser un retour à la "n
 **New Guy**?
 La solution pourrait bien se trouver être dans la mise en place d'un processus d'accueil (onboarding) du nouveau.
 
-
-
-Il n'y pas de raccourcis, et l'intégration d'un nouveau doit se préparer, et chaque membre de l'équipe doit y mettre du
+Il n'y pas de raccourcis, l'intégration d'un nouveau doit se préparer, et chaque membre de l'équipe doit y mettre du
 sien. Cela commence même lors du processus de recrutement.
 
-Au niveau de l'onboarding, le nouveau possèdera un regard nouveau sur le process. Il pourra faire des retours dessus,
+Au niveau de l'onboarding, le nouveau possèdera un regard nouveau sur ce process. Il pourra faire des retours dessus,
 sur le bon comme le moins bon dans cette étape d'intégration.
-Pour l'équipe, ce sera l'occasion de tester ce process et de l'améliorer au fil du temps afin d'être plus simple,
-plus original, plus complet.
+Pour l'équipe, ce sera l'occasion de tester ce processus et de l'améliorer au fil du temps afin d'être plus simple,
+plus original, et plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
 
 
