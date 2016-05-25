@@ -2,8 +2,8 @@ Malheureusement bien souvent côté logistique, nous tombons dans les mêmes tra
 l'ordinateur ne sont pas prêts le jour de l'arrivée de notre new Guy. Cela engendre une perte de temps parfois
 considérable et aussi d'argent.
 Par exemple dans le cadre d'une de mes précédentes missions, le prestataire pouvait avoir son ordinateur entre deux et
-quatre semaines après son arrivée; je vous laisse imaginer en plus de la perte de temps et la frustration ressentie, le
-coût que cela peut représenter.
+quatre semaines après son arrivée; je vous laisse imaginer en plus de la perte de temps et la frustration ressentie par
+ce dernier, le coût que cela peut représenter pour l'entreprise.
 
 Dans notre milieu, nous parlons un maximum d'automatisation des tâches et ecnore plus actuellement avec tout ce qui
 touche au continous delivery/deploiement. Peut être serait-il bon de mettre en place un processus de ce type.
