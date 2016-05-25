@@ -99,7 +99,7 @@ Mais ce sont surtout ce type de structure qui ont le plus besoin d'un oboarding 
 qu'elles accueillent chaque année.
 
 ### Methodology
-Il existe plusieurs techniques/méthodes pour intégrer au mieux un nouveau
+Voici quelsques techniques/méthodes pour intégrer au mieux un nouveau:
 
 ##### le pair programming
 Cette technique consiste à binômer deux personnes. Les avantages de cette techniques sont nombreux:
@@ -176,6 +176,25 @@ passe et plus on pourra lui attribuer des développements transverses.
 Tout cela peut sembler logique mais comme dit précedemment, il arrive parfois que le nouveau soit lancé quasiment directement
 dans le code sans autre forme de formation que celle qu'il acquièrera au niveau de sa compréhension du code et de ses
 échanges avec les autres.
+
+##### Living documentation:
+Avoir une documentation de qualité peut aider le nouveau dans son intégration. Malheureusement bien souvent celle-ci est
+obsolète et génère encore une fois une perte de temps et de la frustration pour le nouveau ainsiq u'une perte d'argent
+pour l'entreprise .
+
+Mais comment arriver à avor une documentation à jour et compréhensible alors que le code ne cesse de changer et éviter
+un écart possible entre le comportement de nos applications et ce qui en est spécifié ?
+
+Une réponse possible est de faire de la living documentation. C'est un ensemble de méthodes permettant de fournir
+dynamiquement de la documentation à jour.
+Si vous faites du BDD, chacun des tests que vous avez écrit correspond à un fonctionnement attendu de la part du métier
+(spéciffication par l'exemple ?). De plus ces tests présentent aussi les termes du métiers et permmetent au nouveau de
+s'en imprégner encore un peu plus.
+Le fait de faire du pair programming y contribue aussi; la connaissance est trasmise de manière dynamique par la
+communication entre les pairs, les connaissances étant censées être à jour.
+
+Concernnat ce dernier point, je vous invite à lire le livre de Cyrille MARTRAIRE ([@Cyriux](https://twitter.com/cyriux?lang=fr))
+que vous pourrez trouver à l'adresse suivante: https://leanpub.com/livingdocumentation
 
 ### Environnement
 
