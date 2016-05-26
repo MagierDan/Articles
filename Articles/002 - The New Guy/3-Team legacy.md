@@ -13,3 +13,6 @@ tout court. Avoir un collègue râleur, qui se plaint de tout et pour rien tout 
 et ce même si ce derneir est très compétent.
 
 Il faudra donc faire attention à ces points et surtout ne pas sous-estimer le dernier.
+
+
+Rajouter un point su rle fait que l'équipe souhiate la venue du nouveau, qu'il se sente "désiré"
