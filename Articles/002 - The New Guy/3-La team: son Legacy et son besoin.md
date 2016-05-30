@@ -1,6 +1,6 @@
-Attention au legacy de l'équipe car il  peut nuire fortement à l'intégration d'un nouveau.
+Attention au legacy de l'équipe car il peut nuire fortement à l'intégration d'un nouveau.
 Il doit faire sienne la base de code présente avec ses bons et ses mauvais côtés; soyons honnêtes, il y a plus souvent
-du mauvais que du bon quand on parle de legacy. De facto, meetre en place un politique de lutte contre le legacy en
+du mauvais que du bon quand on parle de legacy. De facto, mettre en place une politique de lutte contre le legacy en
 réduisant la dette peut aider fortement dans cette tâche.
 
 Par contre le legacy ne se traduit pas forcément que par du code. Il peut prendre d'autres formes.
@@ -10,9 +10,14 @@ et/ou externes.
 Il faudra se montrer attentif à cela, afin d'exposer le moins possible le nouveau à ce côté négatif (qui a dit obscur?).
 De même le caractère/humeur de certains membres de l'équipe peut s'avérer nocif pour une bonne intégration voir même
 tout court. Avoir un collègue râleur, qui se plaint de tout et pour rien tout le temps peut rapidement devenir fatiguant
-et ce même si ce derneir est très compétent.
-
+et ce même si ce dernier est très compétent.
 Il faudra donc faire attention à ces points et surtout ne pas sous-estimer le dernier.
 
-
-Rajouter un point su rle fait que l'équipe souhiate la venue du nouveau, qu'il se sente "désiré"
+Il ne faut pas non plus oublié que le nouveau doit se sentir "désiré". Si on intégre quelqu'un de nouveau à l'équipe,
+c'est en principe pour une bonne raison:
+- départ ou futur départ d'un membre de l'équipe,
+- besoin de renfort en prévision d'une montée en charge,
+- besoin spécifique sur une technologie.
+Quoi qu'il advienne et sans trop en faire, montrer au noveau que sa venue apporte un plus à l'équipe. En tant que nouvel
+arrivant, il est possible de se sentir dépasser par l'arrivée dans un nouveau contexte, le fait de se sentir désirer
+améliorera la confiance de celui-ci et favorisera aussi son intéggration.
