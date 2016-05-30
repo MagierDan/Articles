@@ -8,11 +8,16 @@ A partir d'un premier mail par exemple, le nouveau aurait les informations néce
 à mettre en place son environnemetn de travail, à prendre connaissance des règles de la société et d'avoir accès à une
 présentation fonctionelle succinte et claire.
 
-Clairement, si le métier est complexe, la présentation focntionnelle ne serait être qu'une simple introduction. Le
-nouveau aura besoin de toute façon d'une formation et d'échanger avec les autres memebres de l'équipe à ce sujet.
+Clairement, si le métier est complexe, la présentation fonctionnelle ne serait être qu'une simple introduction. Le
+nouveau aura besoin de toute façon d'une formation et d'échanger avec les autres membres de l'équipe à ce sujet.
 
 Le tout étant de trouver le juste équilibre entre la partie sur laquelle il est autonome et en pair.
 
-Pourquoi ne pa smettre dè slors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment le
+Pourquoi ne pas mettre dès lors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment le
 nouveau reçoit un mail avec un lien le renvoyant dessus. Un chemin balisé lui est montré pour réaliser tout ce dont il
 est nécessaire d'un point de vue logistique le plus indépendemment possible.
+
+Et sur cette partie il peut être de bon ton d'être le plus original possible à l'instar de l'onbaording présenté dans
+cet [article](http://rmsnews.com/points-cles-onboarding).
+Mise en place de jeux pour apprendre à connaître ses collègues et l'histoire de son entreprise, montée en compétences
+graduelle, etc. Seule votre imagination sera votre limite ici.
