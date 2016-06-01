@@ -17,6 +17,6 @@ Après il faut faire aussi en fonction de ce dernier. Lors du recrutement, vous 
 matière. dans un premier temps, sans trop en faire, adaptez-vous à lui au début afin de le faire se sentir bien, et par
 la suite faîtes des choses qui soient plus en accord au goût de tous les membres de l'équipe.
 
-Il ne faut pas frocément négliger ce point car mal intégrer humainement/socialement parlant le nouveau peut conduire à
+Il ne faut pas forcément négliger ce point car mal intégrer humainement/socialement parlant le nouveau peut conduire à
 son départ.
 
