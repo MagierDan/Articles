@@ -18,6 +18,7 @@ c'est en principe pour une bonne raison:
 - départ ou futur départ d'un membre de l'équipe,
 - besoin de renfort en prévision d'une montée en charge,
 - besoin spécifique sur une technologie.
+
 Quoi qu'il advienne et sans trop en faire, montrer au noveau que sa venue apporte un plus à l'équipe. En tant que nouvel
 arrivant, il est possible de se sentir dépasser par l'arrivée dans un nouveau contexte, le fait de se sentir désirer
 améliorera la confiance de celui-ci et favorisera aussi son intéggration.

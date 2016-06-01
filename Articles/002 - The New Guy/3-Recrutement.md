@@ -21,6 +21,6 @@ sa manière de penser/coder.
 Il est aussi possible de lui donner un exercice à faire avant l'entretien et qui sera analysé avec lui lors de celui-ci
 si le niveau est jugé acceptable.
 
-quoi qu'il advienne, il est important que l'équipe s'implique dans ce process car la nouvelle personne va en devenir un
+Quoi qu'il advienne, il est important que l'équipe s'implique dans ce process car la nouvelle personne va en devenir un
 membre à part entière. Si toute l'équipe la valide "directement" alors il y a de forte chance  qu'elle corresponde
 "en principe" au collègue presque parfait ^^.

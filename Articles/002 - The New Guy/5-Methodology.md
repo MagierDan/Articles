@@ -5,15 +5,15 @@ Cette technique consiste à binômer deux personnes. Les avantages de cette tech
 - elle favorise la communication entre les pairs
 - elle permet aux pairs d'apprendre à travailler ensemble
 - elle renforce les liens entre les gens et permet ainsi de créer un esprit d'équipe
-Dans le cas précis de l'arrivée d'un npouveau, pairer une personne connaissant bien le logiciel sur lequel doit intervenir
+Dans le cas précis de l'arrivée d'un nouveau, pairer une personne connaissant bien le logiciel sur lequel doit intervenir
 avec ce lui, devrait lui permettre de monter en compétence plus rapidement.
 Un problème ou une question sont rencontrés, les échanges étant dynamiques, le nouveau est à même d'être aidé par
 l'ancien.
 En dehors de la montée en connaissances du nouveau, le fait de pairer va lui permettre de donner son point de vue. Il a
-un regard neuf sur l'existant et les méthodes déjà en place, il pourrait donc aussi permeettre d'améliorer cela.
+un regard neuf sur l'existant et les méthodes déjà en place, il pourrait donc aussi permettre d'améliorer cela.
 
 Enfin le pair a d'autres avantages, comme le fait de permettre de développer des applications mieux pensées et de
-meilleure qualité:  deux cerveaux valent mieux qu'un.
+meilleure qualité: deux cerveaux valent mieux qu'un.
 
 
 ##### Faire des feedbacks réguliers : rapports d'étonnments, points réguliers
@@ -33,16 +33,16 @@ Dans cette optique, faire quelques rapports d'étonnements du côté du nouveau 
 d'aller en ce sens. La communication est la clé de voûte pour améliorer l'intégration d'un nouveau et les processus
 afférents.
 
-##### Echanges avecc le métier: formation métier pour tous les nouveaux arrivants
+##### Echanges avec le métier: formation métier pour tous les nouveaux arrivants
 En tant que développeur, nous transcrivons un besoin exprimé par le métier en code. De facto, si nous ne comprenons pas
-le métier, il sera dur de réaliser convenablement cette transforamtion en code.
+le métier, il sera dur de réaliser convenablement cette transformation en code.
 Il est donc important de bien comprendre le métier sous jacent aux applications sur lesquelles nous travaillons.
 Pour ce faire, suivre une formation sur le métier peut s'avérer extrêmement utile.
 Cela peut paraître évident et pourtant bien souvent lorsqu'un développeur arrive sur un nouveau périmètre fonctionnel,
 on lui fait une courte présentation du métier et on le lâche sur le code. Le but étant de viser une rentabilité dès
 l'arrivée du nouveau T_T.
 Celui-ci se dépatouille tant bien que mal avec les objets d'un métier qu'il ne maîtrise pas, ce qui pourrait le frustrer
-et le pousser à partir. De plus le code produit serait certainement d'un qualité moindre dans ce cas-ci.
+et le pousser à partir. De plus le code produit serait certainement d'une qualité moindre dans ce cas-ci.
 
 Former convenablement un nouveau sur le métier permet plus que sa bonne intégration, cela pemret aussi d'investir dans
 la qualité du code qu'il va produire et pouvoir générer à moyen et long terme des économies plus importantes que le coût
@@ -64,30 +64,30 @@ Pour cela, on commence à lui expliquer dans les grandes lignes (Macro) ce qu'es
 plus sa compréhension augmente, et plus on descend au niveau des détails (Micro).
 On commence donc d'une explication macroscopique vers une explication microscopique.
 
-Concernnat les développements, le cheminement est inversé, à savoir commencer au plus spécifique (Micro) pour devenir le
+Concernant les développements, le cheminement est inversé, à savoir commencer au plus spécifique (Micro) pour devenir le
 plus généraliste possible (Macro) avec le temps.
 Vous ne pouvez pas décemment attendre du nouveau d'avoir une vision globale du ou des logiciels sur lesquels il va
 travailler en arrivant.
-Il faudra donc le faire monter en compétences et connaisances avec le temps, ene enchaînant parfois par baby-steps en
-fonction de la compléxité rencontrée. On commence donc par des développements spécifiques à faire, et plus le temps
+Il faudra donc le faire monter en compétences et connaisances avec le temps, en enchaînant parfois par baby-steps en
+fonction de la complexité rencontrée. On commence donc par des développements spécifiques à faire, et plus le temps
 passe et plus on pourra lui attribuer des développements transverses.
 
-Tout cela peut sembler logique mais comme dit précedemment, il arrive parfois que le nouveau soit lancé quasiment directement
+Tout cela peut sembler logique mais comme dit précédemment, il arrive parfois que le nouveau soit lancé quasiment directement
 dans le code sans autre forme de formation que celle qu'il acquièrera au niveau de sa compréhension du code et de ses
 échanges avec les autres.
 
 ##### Living documentation:
 Avoir une documentation de qualité peut aider le nouveau dans son intégration. Malheureusement bien souvent celle-ci est
-obsolète et génère encore une fois une perte de temps et de la frustration pour le nouveau ainsiq u'une perte d'argent
-pour l'entreprise .
+obsolète et génère encore une fois une perte de temps et de la frustration pour le nouveau ainsi qu'une perte d'argent
+pour l'entreprise.
 
-Mais comment arriver à avor une documentation à jour et compréhensible alors que le code ne cesse de changer et éviter
+Mais comment arriver à avoir une documentation à jour et compréhensible alors que le code ne cesse de changer et éviter
 un écart possible entre le comportement de nos applications et ce qui en est spécifié ?
 
 Une réponse possible est de faire de la living documentation. C'est un ensemble de méthodes permettant de fournir
 dynamiquement de la documentation à jour.
 Si vous faites du BDD, chacun des tests que vous avez écrit correspond à un fonctionnement attendu de la part du métier
-(spéciffication par l'exemple ?). De plus ces tests présentent aussi les termes du métiers et permmetent au nouveau de
+(spécification par l'exemple). De plus ces tests présentent aussi les termes du métiers et permettent au nouveau de
 s'en imprégner encore un peu plus.
 Le fait de faire du pair programming y contribue aussi; la connaissance est trasmise de manière dynamique par la
 communication entre les pairs, les connaissances étant censées être à jour.
