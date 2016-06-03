@@ -1,4 +1,4 @@
-L'arrivée d'un nouveau est préceddée bien évidemment par un recrutement.
+L'arrivée de Gil est préceddée bien évidemment par son recrutement.
 Je ne sais pas pour vous, mais lors d'une montée en charge sur un projet, vous est-il déjà arrivé de demander du renfort.
 Et quand je dis renfort, je parle de quelqu'un qui a des connaissances sur des technologies ou des méthodologies bien précises.
 Si oui, comment cela s'est-il passé?
@@ -21,6 +21,5 @@ sa manière de penser/coder.
 Il est aussi possible de lui donner un exercice à faire avant l'entretien et qui sera analysé avec lui lors de celui-ci
 si le niveau est jugé acceptable.
 
-Quoi qu'il advienne, il est important que l'équipe s'implique dans ce process car la nouvelle personne va en devenir un
-membre à part entière. Si toute l'équipe la valide "directement" alors il y a de forte chance  qu'elle corresponde
-"en principe" au collègue presque parfait ^^.
+Quoi qu'il advienne, il est important que l'équipe s'implique dans ce process car Gil va en devenir un membre à part entière.
+Si toute l'équipe le valide "directement" alors il y a de forte chance  qu'il corresponde "en principe" au collègue presque parfait ^^.

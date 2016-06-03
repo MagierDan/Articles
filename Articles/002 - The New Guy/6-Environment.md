@@ -2,7 +2,7 @@ L’environnement dans lequel va évoluer le nouveau va aussi jouer un rôle imp
 Les méthodes agiles ainsi que des événements relatifs à la fonction de développeur peuvent être aussi des facteurs
 décideurs en ce sens.
 
-#Agility
+#Agilité
 L'agilité est aussi un moyen d'intégrer au mieux un nouveau. Les méthodes agiles favorisent la communication et les
 interactions entre toutes les parties du processus de développement. Grâce aux différents rituels (sprint plannings,
 daily stand-ups, rétrospectives, reviews), le nouveau se retrouve directement au cœur de ce qui se passe dans l'équipe
@@ -25,12 +25,13 @@ d'autres avantages:
 Il en existe encore d'autres, le but n'étant pas de tous les lister ici mais de présenter ceux que vous proposer à votre
 hiéarchie afin de pouvoir la mettre en place.
 
-#Events
+#Evénements
 Pour certains d'entre nous, participer à différents types d’événements nous permet de rencontrer nos pairs, des gens
-ayants des intérêts communs avec nous. C'est donc un moment d'échanges, qui nous permet de monter en compétence sur
-certains sujets. Les développeurs en sont très friants. Organisés ce type d’événements en interne ou permettre aux
-membres de vos équipes d'y participer peu grandement aider à conserver à plus ou moins long termes ces personnes, et
-faciliter aussi l’intégration du nouveau qui verra que vous portez de l’attention à ses centres d'intérêts.
+ayants des intérêts communs avec nous et donc de mous intégrer à une communauté. C'est donc un moment d'échanges, qui
+nous permet de monter en compétence sur certains sujets. Certains développeurs en sont très friants.
+Organisés ce type d’événements en interne ou permettre aux membres de vos équipes d'y participer peut grandement aider à
+conserver à plus ou moins long termes ces personnes, et faciliter aussi l’intégration du nouveau qui verra que vous
+portez de l’attention à ses centres d'intérêts.
 
 Plusieurs formes existent pour ces types d’événements:
 

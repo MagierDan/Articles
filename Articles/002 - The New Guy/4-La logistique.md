@@ -1,6 +1,7 @@
 Malheureusement bien souvent côté logistique, nous tombons dans les mêmes travers: le badge, les comptes d'accès et
-l'ordinateur ne sont pas prêts le jour de l'arrivée de notre new Guy. Cela engendre une perte de temps parfois
-considérable et aussi d'argent.
+l'ordinateur ne sont pas prêts le jour de l'arrivée de Gil. Cela engendre une perte de temps parfois considérable et
+aussi d'argent. C'est pour cela que l'on devrait pouvoir accueillir Gil avec tous ces éléments de prêt.
+
 Par exemple dans le cadre d'une de mes précédentes missions, le prestataire pouvait avoir son ordinateur entre deux et
 quatre semaines après son arrivée; je vous laisse imaginer en plus de la perte de temps et la frustration ressentie par
 ce dernier, le coût que cela peut représenter pour l'entreprise.

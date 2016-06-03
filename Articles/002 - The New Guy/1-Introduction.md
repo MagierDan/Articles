@@ -9,7 +9,7 @@ Dans tous les cas, une déstabilisation se produit et engendre une baisse de pro
 
 Dès lors, comment faire pour minimiser celle-ci et optimiser un retour à la "normale" dans le cas de l'arrivée d'un
 **New Guy**?
-La solution pourrait bien se trouver être dans la mise en place d'un processus d'accueil (onboarding) du nouveau.
+La solution pourrait bien se trouver être dans la mise en place d'un processus d'accueil (onboarding) de ce nouveau.
 
 Il n'y pas de raccourcis, l'intégration d'un nouveau doit se préparer, et chaque membre de l'équipe doit y mettre du
 sien. Cela commence même lors du processus de recrutement.
@@ -19,6 +19,8 @@ sur le bon comme le moins bon dans cette étape d'intégration.
 Pour l'équipe, ce sera l'occasion de tester ce processus et de l'améliorer au fil du temps afin d'être plus simple,
 plus original, et plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
+
+Dans la suite de cet article, nous expliquerons pourquoi et comment intégrer Gil HARRIS, le futur membre de votre équipe.
 
 
 
