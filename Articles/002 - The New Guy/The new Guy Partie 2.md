@@ -187,14 +187,9 @@ Il ne faut pas forcément négliger ce point car mal intégrer humainement/socia
 son départ.
 
 ### Conclusion
-Comme vu précédemment, l'arrivée d'un nouveau se prépare. Il peut être fortement intéressant d'investir sur ce
-processus d'onboarding et cela pour deux raisons:
-- être sûr que la personne choisie est la bonne
-- tout faire pour que son intégration se déroule au mieux et qu'elle reste
-
-Parfois cela marchera et parfois non. Rien n'est absolu en ce sens. Si la personne ne reste pas, il faut essayer de
-comprendre ce qui n'a pas marché et corriger cela quand c'est possible. C'est en améliorant petit à petit ce porcessus,
-que l'on arrivera à maximiser l'intégration du nouveau et le retour à une vélocité de croisière.
+Parfois Le processsu d'onboarding sera efficace parfois non. Rien n'est absolu en ce sens. Si la personne ne reste pas,
+il faut essayer de comprendre ce qui n'a pas marché et corriger cela quand c'est possible. C'est en améliorant petit à
+petit ce porcessus, que l'on arrivera à maximiser l'intégration du nouveau et le retour à une vélocité de croisière.
 
 Nous avons beaucoup parlé de comment bien intégrer le nouveau. Il ne faut pas oublier non plus que le nouveau doit aussi
 faire des efforts pour s'intégrer. Ce n'est pas à sens unique. Parfois des erreurs de casting peuvent se produire. Plutôt
