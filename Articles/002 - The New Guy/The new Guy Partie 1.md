@@ -14,8 +14,8 @@ La solution pourrait bien se trouver être dans la mise en place d'un processus 
 **Il n'y pas de raccourcis, l'intégration d'un nouveau doit se préparer, et chaque membre de l'équipe doit y mettre du
 sien**. Cela commence même avant son arrivée.
 
-Au niveau de l'onboarding, le nouveau possèdera un regard nouveau sur ce process. Il pourra faire des retours dessus,
-sur le bon comme le moins bon dans cette étape d'intégration.
+Au niveau de l'onboarding, le nouveau, ici Dizzy Gillespie HARRISON aka Gil HARRIS, possèdera un regard nouveau sur ce process.
+Il pourra faire des retours dessus sur le bon comme le moins bon dans cette étape d'intégration.
 Pour l'équipe, ce sera l'occasion de tester ce processus et de l'améliorer au fil du temps afin d'être plus simple,
 plus original, et plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
@@ -24,13 +24,13 @@ Il est possible de disitnguer deux grandes phases dans le processus d'onboarding
 celle qui suit.
 
 ###Le recrutement
-L'arrivée d'un nouveau est préceddée bien évidemment par un recrutement.
-**Il est important que l'équipe soit consultée dessus et que ce recrutement soit un besoin exprimée par celle-ci**, qu'il
-corresponde à un besoin. Il ne fau surtout pas imposer quelqu'un à l'équipe, car cela risqueraot d'en mécontenter les memebres.
+L'arrivée de Gil est préceddée bien évidemment par son recrutement.
+**Il est important que l'équipe soit consultée dessus et que ce recrutement soit un besoin exprimé par celle-ci**.
+Il ne faut surtout pas imposer quelqu'un à l'équipe, car cela risquerait d'en mécontenter les membres.
 Cela est encore plus vrai, si la personne n'avait pas les compétencees requises pour travailler avec eux.
 
 Comment éviter que ce recrutement soit mal perçu par l'équipe en place et qu'elle se retouve avec la mauvaise personne ?
-Simplement en faisant participer l'équipe au processus de recrutement.
+Simplement en faisant participer l'équipe à ce processus.
 Bien entendu, cela n'a pas besoin d'être forcément à 100% pour chacun des membres.
 **L'équipe définit le profil de la personne recherchée, prépare les entretiens et les fait passer.**
 Pour les entretiens techniques, il est de plus en plus fréquent de pairer sur du code avec le candidat.
@@ -40,14 +40,14 @@ Il est aussi possible de lui donner un exercice à faire avant l'entretien. Celu
 si le niveau est jugé acceptable.
 
 Il est important que l'équipe s'implique dans ce process car le candidat peut en devenir un membre à part entière.
-Si toute l'équipe la valide "directement" alors il y a de forte chance  qu'il corresponde "en principe" au collègue
+Si toute l'équipe le valide "directement" alors il y a de forte chance qu'il corresponde "en principe" au collègue
 presque parfait ^^.
 
 ### La logistique
 Malheureusement bien souvent côté logistique, nous tombons dans les mêmes travers: le badge, les comptes d'accès et
-l'ordinateur ne sont pas prêts le jour de l'arrivée de John.
-Cela engendre une perte de temps parfois considérable pour le projet, une frustration pour John et une perte d'argent pour la société.
-C'est pour cela que l'on devrait pouvoir accueillir John avec tous ces éléments de prêt.
+l'ordinateur ne sont pas prêts le jour de l'arrivée de Gil.
+Cela engendre une perte de temps parfois considérable pour le projet, une frustration pour Gil et une perte d'argent pour la société.
+C'est pour cela que l'on devrait pouvoir accueillir Gil avec tous ces éléments de prêt.
 
 Dans notre milieu, nous parlons un maximum d'automatisation des tâches et encore plus actuellement avec tout ce qui
 touche au continous delivery/deploiement. Mettre en place un processus de ce type devrait être la normale.
@@ -57,13 +57,16 @@ Or ce sont surtout ce type de structure qui ont le plus besoin d'un onboarding d
 nouveaux arrivants.
 
 ### Parcours initiatique
-Intégrer John revient forcément à s'occuper de lui surtout au début. Il faut bien lui expliquer le métier, mettre
-en place la logistique si c en'est pas déjà fait (cf paragraphe précédent), voir avec lui pour son environnement de travail.
+Intégrer Gil revient forcément à s'occuper de lui surtout au début. Il faut bien lui expliquer le métier, mettre
+en place la logistique si ce n'est pas déjà fait (cf paragraphe précédent), voir avec lui pour son environnement de travail.
+
 Cette initialisation lors de son arrivée a forcément un coût, car quelqu'un doit l'accompagner dans cette étape.
-Les membres de l’équipe peuvent avoir certains impératifs (réunions, mise en production, aqua-poney ^^).
+Nommer un parrain peut s'avérer salvateur. Celui-ci sera en charge de Gil le temps qu'il prenne ses marques.
+Cela évitera aussi à gil de se tourner vers tous les membres de l'équipe et d'en "baisser" la vélocité.
+Les membres peuvent avoir certains impératifs (réunions, mise en production, aqua-poney ^^).
 
 Définir un processus d'initialisation dans celui d'onboarding (qui a dit inception) serait bienvenue. A partir
-d'un premier mail par exemple, le nouveau aurait les informations nécessaires pour réaliser les étapes propres à mettre
+d'un premier mail, le nouveau aurait les informations nécessaires pour réaliser les étapes propres à mettre
 en place son environnement de travail, à prendre connaissance des règles de la société et d'avoir accès à une présentation
 fonctionnelle succincte et claire.
 
@@ -72,8 +75,8 @@ nouveau aura besoin de toute façon d'une formation et d'échanger avec les autr
 
 **Le tout étant de trouver le juste équilibre entre la partie sur laquelle il est autonome et en pair.**
 
-Pourquoi ne pas mettre dès lors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment le
-nouveau reçoit un mail avec un lien le renvoyant dessus. Un chemin balisé lui est montré pour réaliser tout ce dont il
+Pourquoi ne pas mettre dès lors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment Gil
+reçoit un mail avec un lien le renvoyant dessus. Un chemin balisé lui est montré pour réaliser tout ce dont il
 est nécessaire d'un point de vue logistique le plus indépendamment possible.
 
 Sur cette partie, il peut être bon d'être le plus original possible, à l'instar de l'onboarding présenté dans
@@ -82,7 +85,7 @@ Mise en place de jeux pour apprendre à connaître ses collègues et l'histoire 
 graduelle, etc. Seule votre imagination sera votre limite ici.
 
 ### La team: son besoin et son Legacy
-Pour bien intégrer John, un bon moyen est de commencer par lui faire ressentir qu'il est "désiré". Si on intégre quelqu'un
+Pour bien intégrer Gil, un bon moyen est de commencer par lui faire ressentir qu'il est "désiré". Si on intégre quelqu'un
 de nouveau à l'équipe, c'est en principe pour une bonne raison:
 - départ ou futur départ d'un membre de l'équipe,
 - besoin de renfort en prévision d'une montée en charge,
@@ -92,7 +95,7 @@ Sans trop en faire, montrer lui que sa venue apporte un plus à l'équipe. En ta
 se sentir dépasser par l'arrivée dans un nouveau contexte, le fait de se sentir désirer améliorera sa confiance et favorisera
 aussi son intéggration.
 
-**Faites attention au legacy de l'équipe car il peut nuire fortement à l'intégration de John.**
+**Faites attention au legacy de l'équipe car il peut nuire fortement à l'intégration de Gil.**
 Il devra faire sienne la base de code présente avec ses bons et ses mauvais côtés; et soyons honnêtes, il y a plus souvent
 du mauvais que du bon quand on parle de legacy. De facto, mettre en place une politique de lutte contre le legacy en
 réduisant la dette peut aider fortement dans cette tâche.
@@ -101,7 +104,7 @@ réduisant la dette peut aider fortement dans cette tâche.
 Les relations internes comme externes à l'équipe en font partie. Le legacy peut s'avérer être positif dans le cas où
 l'équipe est soudée et les relations externes sont bonnes, il peut se montrer négatif dans le cas de conflits internes
 et/ou externes.
-Il faudra se montrer attentif à cela, afin d'exposer le moins possible John à ce côté négatif (qui a dit obscur?).
+Il faudra se montrer attentif à cela, afin d'exposer le moins possible Gil à ce côté négatif (qui a dit obscur?).
 De même le caractère/humeur de certains membres de l'équipe peut s'avérer nocif pour une bonne intégration voir même
 tout court. Avoir un collègue râleur, qui se plaint de tout et pour rien tout le temps peut rapidement devenir fatiguant
 et ce même si ce dernier est très compétent.
@@ -124,7 +127,7 @@ et que la documentation fournie soit obsolète.
 Relativement rapidement, cette personne pourrait en avoir assez et souhaitera s'en aller vers de plus verts pâturages.
 Encore une fois mettez-vous à sa place et imaginez ce que vous feriez ...
 A l'inverse, un bon processus d'onboarding permettra à un nouveau de mieux s'intégrer dans l'équipe et de lui donner envie
-de rester, résulant par la même à une diminution du turn-over.
+d'y rester, résulant par la même à une diminution du turn-over.
 
 ### Conclusion
 Comme vu précédemment, l'arrivée d'un nouveau se prépare. Il peut être fortement intéressant d'investir sur ce
@@ -133,6 +136,6 @@ processus d'onboarding et cela pour deux raisons:
 - tout faire pour que son intégration se déroule au plus vite et au mieux
 
 Dans cette partie, nous nous sommes intéressés à pourquoi mettre en place un processus d'onbaording, la relation entre
-ce dernier et turn-over, ainsi que ses étapes préliminaires (recrutement et arrivée de John).
-Dans une seconde partie, nous allons présenter différentes méthodes permettant d'améliorer l'intégration de John à sa
+ce dernier et turn-over, ainsi que ses étapes préliminaires (recrutement et arrivée de Gil).
+Dans une seconde partie, nous allons présenter différentes méthodes permettant d'améliorer l'intégration de Gil dans sa
 nouvelle équipe. Certaines d'entre elles peuvent même s'appliquer afin de diminuer le turn-over des membres d'une équipe.

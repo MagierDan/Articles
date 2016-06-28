@@ -8,12 +8,12 @@ Sans trop en faire, montrer lui que sa venue apporte un plus à l'équipe. En ta
 se sentir dépasser par l'arrivée dans un nouveau contexte, le fait de se sentir désirer améliorera sa confiance et favorisera
 aussi son intéggration.
 
-Faites attention au legacy de l'équipe car il peut nuire fortement à l'intégration de Gil.
+**Faites attention au legacy de l'équipe car il peut nuire fortement à l'intégration de Gil.**
 Il devra faire sienne la base de code présente avec ses bons et ses mauvais côtés; et soyons honnêtes, il y a plus souvent
 du mauvais que du bon quand on parle de legacy. De facto, mettre en place une politique de lutte contre le legacy en
 réduisant la dette peut aider fortement dans cette tâche.
 
-Par contre le legacy ne se traduit pas forcément que par du code. Il peut prendre d'autres formes.
+**Par contre le legacy ne se traduit pas forcément que par du code. Il peut prendre d'autres formes.**
 Les relations internes comme externes à l'équipe en font partie. Le legacy peut s'avérer être positif dans le cas où
 l'équipe est soudée et les relations externes sont bonnes, il peut se montrer négatif dans le cas de conflits internes
 et/ou externes.
