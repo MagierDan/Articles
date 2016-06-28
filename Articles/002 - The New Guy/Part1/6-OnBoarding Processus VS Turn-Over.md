@@ -14,4 +14,3 @@ Relativement rapidement, cette personne pourrait en avoir assez et souhaitera s'
 Encore une fois mettez-vous à sa place et imaginez ce que vous feriez ...
 A l'inverse, un bon processus d'onboarding permettra à un nouveau de mieux s'intégrer dans l'équipe et de lui donner envie
 d'y rester, résulant par la même à une diminution du turn-over.
-

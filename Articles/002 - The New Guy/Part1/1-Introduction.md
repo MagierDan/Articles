@@ -20,5 +20,8 @@ Pour l'équipe, ce sera l'occasion de tester ce processus et de l'améliorer au 
 plus original, et plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
 
-Il est possible de disitnguer deux grandes phases dans le processus d'onboarding, celle précédant l'arrivée du nouveau et
-celle qui suit.
+Il est possible de disitnguer trois grandes phases dans le processus d'onboarding: celle précédant l'arrivée du nouveau,
+l'arrivée en tant que telle et celle qui suit.
+
+Dans cette première partie, nous allons nous intéresser au Leagcy d'une équipe, aux deux premières phases citées plus haut, et
+terminer sur la relation qu'il existe entre l'onboarding et le turn-over.

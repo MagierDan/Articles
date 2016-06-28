@@ -20,69 +20,11 @@ Pour l'équipe, ce sera l'occasion de tester ce processus et de l'améliorer au 
 plus original, et plus complet.
 Dans les deux sens, il faut se challenger et encourager la critique.
 
-Il est possible de disitnguer deux grandes phases dans le processus d'onboarding, celle précédant l'arrivée du nouveau et
-celle qui suit.
+Il est possible de disitnguer trois grandes phases dans le processus d'onboarding: celle précédant l'arrivée du nouveau,
+l'arrivée en tant que telle et celle qui suit.
 
-###Le recrutement
-L'arrivée de Gil est préceddée bien évidemment par son recrutement.
-**Il est important que l'équipe soit consultée dessus et que ce recrutement soit un besoin exprimé par celle-ci**.
-Il ne faut surtout pas imposer quelqu'un à l'équipe, car cela risquerait d'en mécontenter les membres.
-Cela est encore plus vrai, si la personne n'avait pas les compétencees requises pour travailler avec eux.
-
-Comment éviter que ce recrutement soit mal perçu par l'équipe en place et qu'elle se retouve avec la mauvaise personne ?
-Simplement en faisant participer l'équipe à ce processus.
-Bien entendu, cela n'a pas besoin d'être forcément à 100% pour chacun des membres.
-**L'équipe définit le profil de la personne recherchée, prépare les entretiens et les fait passer.**
-Pour les entretiens techniques, il est de plus en plus fréquent de pairer sur du code avec le candidat.
-Quoi de mieux que de voir son "peut-être" futur collègue en action pour juger de sa capaité à travailler en binôme et tester
-sa manière de penser/coder.
-Il est aussi possible de lui donner un exercice à faire avant l'entretien. Celui-ci sera analysé avec lui par la suite
-si le niveau est jugé acceptable.
-
-Il est important que l'équipe s'implique dans ce process car le candidat peut en devenir un membre à part entière.
-Si toute l'équipe le valide "directement" alors il y a de forte chance qu'il corresponde "en principe" au collègue
-presque parfait ^^.
-
-### La logistique
-Malheureusement bien souvent côté logistique, nous tombons dans les mêmes travers: le badge, les comptes d'accès et
-l'ordinateur ne sont pas prêts le jour de l'arrivée de Gil.
-Cela engendre une perte de temps parfois considérable pour le projet, une frustration pour Gil et une perte d'argent pour la société.
-C'est pour cela que l'on devrait pouvoir accueillir Gil avec tous ces éléments de prêt.
-
-Dans notre milieu, nous parlons un maximum d'automatisation des tâches et encore plus actuellement avec tout ce qui
-touche au continous delivery/deploiement. Mettre en place un processus de ce type devrait être la normale.
-Une fois un accord donné, un processus informatique est lancé pour créer les comptes, édité le badge et commandé la
-machine. Dans certaines structures, les plus grosses en général, cela peut prendre du temps.
-Or ce sont surtout ce type de structure qui ont le plus besoin d'un onboarding de qualité, au vue du nombre réguliers de
-nouveaux arrivants.
-
-### Parcours initiatique
-Intégrer Gil revient forcément à s'occuper de lui surtout au début. Il faut bien lui expliquer le métier, mettre
-en place la logistique si ce n'est pas déjà fait (cf paragraphe précédent), voir avec lui pour son environnement de travail.
-
-Cette initialisation lors de son arrivée a forcément un coût, car quelqu'un doit l'accompagner dans cette étape.
-Nommer un parrain peut s'avérer salvateur. Celui-ci sera en charge de Gil le temps qu'il prenne ses marques.
-Cela évitera aussi à gil de se tourner vers tous les membres de l'équipe et d'en "baisser" la vélocité.
-Les membres peuvent avoir certains impératifs (réunions, mise en production, aqua-poney ^^).
-
-Définir un processus d'initialisation dans celui d'onboarding (qui a dit inception) serait bienvenue. A partir
-d'un premier mail, le nouveau aurait les informations nécessaires pour réaliser les étapes propres à mettre
-en place son environnement de travail, à prendre connaissance des règles de la société et d'avoir accès à une présentation
-fonctionnelle succincte et claire.
-
-Clairement, si le métier est complexe, la présentation fonctionnelle ne serait être qu'une simple introduction. Le
-nouveau aura besoin de toute façon d'une formation et d'échanger avec les autres membres de l'équipe à ce sujet.
-
-**Le tout étant de trouver le juste équilibre entre la partie sur laquelle il est autonome et en pair.**
-
-Pourquoi ne pas mettre dès lors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment Gil
-reçoit un mail avec un lien le renvoyant dessus. Un chemin balisé lui est montré pour réaliser tout ce dont il
-est nécessaire d'un point de vue logistique le plus indépendamment possible.
-
-Sur cette partie, il peut être bon d'être le plus original possible, à l'instar de l'onboarding présenté dans
-cet [article](http://rmsnews.com/points-cles-onboarding).
-Mise en place de jeux pour apprendre à connaître ses collègues et l'histoire de son entreprise, montée en compétences
-graduelle, etc. Seule votre imagination sera votre limite ici.
+Dans cette première partie, nous allons nous intéresser au Leagcy d'une équipe, aux deux premières phases citées plus haut, et
+terminer sur la relation qu'il existe entre l'onboarding et le turn-over.
 
 ### La team: son besoin et son Legacy
 Pour bien intégrer Gil, un bon moyen est de commencer par lui faire ressentir qu'il est "désiré". Si on intégre quelqu'un
@@ -111,6 +53,67 @@ et ce même si ce dernier est très compétent.
 
 Il faudra donc faire attention à ces points et surtout ne pas sous-estimer le dernier.
 
+###Le recrutement
+L'arrivée de Gil est préceddée bien évidemment par son recrutement.
+**Il est important que l'équipe soit consultée dessus et que ce recrutement soit un besoin exprimé par celle-ci**.
+Il ne faut surtout pas imposer quelqu'un à l'équipe, car cela risquerait d'en mécontenter les membres.
+Cela est encore plus vrai, si la personne n'avait pas les compétencees requises pour travailler avec eux.
+
+Comment éviter que ce recrutement soit mal perçu par l'équipe en place et qu'elle se retouve avec la mauvaise personne ?
+Simplement en faisant participer l'équipe à ce processus.
+Bien entendu, cela n'a pas besoin d'être forcément à 100% pour chacun des membres.
+**L'équipe définit le profil de la personne recherchée, prépare les entretiens et les fait passer.**
+Pour les entretiens techniques, il est de plus en plus fréquent de pairer sur du code avec le candidat.
+Quoi de mieux que de voir son "peut-être" futur collègue en action pour juger de sa capaité à travailler en binôme et tester
+sa manière de penser/coder.
+Il est aussi possible de lui donner un exercice à faire avant l'entretien. Celui-ci sera analysé avec lui par la suite
+si le niveau est jugé acceptable.
+
+Il est important que l'équipe s'implique dans ce process car le candidat peut en devenir un membre à part entière.
+Si toute l'équipe le valide "directement" alors il y a de forte chance qu'il corresponde "en principe" au collègue
+presque parfait ^^.
+
+### La logistique
+Malheureusement bien souvent côté logistique, nous tombons dans les mêmes travers: le badge, les comptes d'accès et
+l'ordinateur ne sont pas prêts le jour de l'arrivée de Gil.
+Cela engendre une perte de temps parfois considérable pour le projet, une frustration pour Gil et une perte d'argent pour la société.
+**C'est pour cela que l'on devrait pouvoir accueillir Gil avec toute la logistique de prête (ordinateur, badges et accès).**
+
+Dans notre milieu, nous parlons un maximum d'automatisation des tâches et encore plus actuellement avec tout ce qui
+touche au continous delivery/deploiement. Mettre en place un processus de ce type devrait être la normale.
+Une fois un accord donné, un processus informatique est lancé pour créer les comptes, édité le badge et commandé la
+machine. Dans certaines structures, les plus grosses en général, cela peut prendre du temps.
+Or ce sont surtout ce type de structure qui ont le plus besoin d'un onboarding de qualité, au vue du nombre réguliers de
+nouveaux arrivants.
+
+### Parcours initiatique
+Intégrer Gil revient forcément à s'occuper de lui surtout au début. Il faut bien lui expliquer le métier, mettre
+en place la logistique si ce n'est pas déjà fait (cf paragraphe précédent), voir avec lui pour son environnement de travail.
+
+Cette initialisation lors de son arrivée a forcément un coût, car quelqu'un doit l'accompagner dans cette étape.
+**Nommer un parrain peut s'avérer salvateur**. Celui-ci sera en charge de Gil le temps qu'il prenne ses marques.
+Cela évitera aussi à gil de se tourner vers tous les membres de l'équipe et d'en "baisser" la vélocité.
+Les membres peuvent avoir certains impératifs (réunions, mise en production, aqua-poney ^^).
+
+**Définir un processus d'initialisation dans celui d'onboarding (qui a dit inception) serait bienvenue**. A partir
+d'un premier mail, le nouveau aurait les informations nécessaires pour réaliser les étapes propres à mettre
+en place son environnement de travail, à prendre connaissance des règles de la société et d'avoir accès à une présentation
+fonctionnelle succincte et claire.
+
+Clairement, si le métier est complexe, la présentation fonctionnelle ne serait être qu'une simple introduction. Le
+nouveau aura besoin de toute façon d'une formation et d'échanger avec les autres membres de l'équipe à ce sujet.
+
+**Le tout étant de trouver le juste équilibre entre la partie sur laquelle il est autonome et en pair.**
+
+Pourquoi ne pas mettre dès lors en place un quickstart (sous forme de wiki par exemple). Comme dit précédemment Gil
+reçoit un mail avec un lien le renvoyant dessus. Un chemin balisé lui est montré pour réaliser tout ce dont il
+est nécessaire d'un point de vue logistique le plus indépendamment possible.
+
+Sur cette partie, il peut être bon d'être le plus original possible, à l'instar de l'onboarding présenté dans
+cet [article](http://rmsnews.com/points-cles-onboarding).
+Mise en place de jeux pour apprendre à connaître ses collègues et l'histoire de son entreprise, montée en compétences
+graduelle, etc. Seule votre imagination sera votre limite ici.
+
 ###OnBoarding VS Turn-Over
 **Il existe une relation bi-directionnele entre l'onboarding et le turn-over, un lien de causes à effets.**
 
@@ -137,5 +140,5 @@ processus d'onboarding et cela pour deux raisons:
 
 Dans cette partie, nous nous sommes intéressés à pourquoi mettre en place un processus d'onbaording, la relation entre
 ce dernier et turn-over, ainsi que ses étapes préliminaires (recrutement et arrivée de Gil).
-Dans une seconde partie, nous allons présenter différentes méthodes permettant d'améliorer l'intégration de Gil dans sa
+Dans la seconde partie, nous allons présenter différentes méthodes permettant d'améliorer l'intégration de Gil dans sa
 nouvelle équipe. Certaines d'entre elles peuvent même s'appliquer afin de diminuer le turn-over des membres d'une équipe.
