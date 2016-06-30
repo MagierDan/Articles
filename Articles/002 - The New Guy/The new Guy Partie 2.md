@@ -1,6 +1,6 @@
 Si vous vous rappelez bien notre précédent article, nous avons vu Gil passé par le stade de l'entretien puis de son arrivée
 si attendue dans sa nouvelle équipe. Fort de l'accueil chaleureux recueilli, ce dernier vient de passer brillamment la première
-semaine. Gil n'est pas dupe et sait que le plus dur reste à venir. Au mieux l'équipe aura préparé cette troisème phase d'onboarding,
+semaine. Gil n'est pas dupe et sait que le plus dur reste à venir. Au mieux l'équipe aura préparé cette troisième phase d'onboarding,
 le plus simple ce sera pour notre nouvel ami de s'y intégrer.
 
 Dans cette seconde partie, nous allons voir des techniques/méthodes pour y parvenir. Nous verrons aussi que l'environnement
@@ -8,7 +8,7 @@ de travail et le team building peuvent jouer un rôle dans ce processus. Et pas 
 un turn-over le plus faible possible.
 
 ### Techniques ou méthodes d'intégration
-Voici quelsques techniques/méthodes pour aider au mieux Gil à s'intégrer:
+Voici quelques techniques/méthodes pour aider au mieux Gil à s'intégrer:
 
 ##### le pair programming
 Cette technique consiste à binômer deux personnes. Les avantages de cette techniques sont nombreux:
@@ -34,7 +34,7 @@ Faire des points réguliers afin de mieux intégrer Gil est important. **Quelque
 important de les exprimer d'un côté ou de l'autre:**
 - si elles sont positives par rapport à son travail et ou son comportement, cela le confortera et l'incitera à
 continuer sur cette voix. Dans le cas où les retours de Gil concenrnant l'équipe sont bons, cela montrera à celle-ci
-que ses méthodes de travail et d'intégrations sont bonnes, et qu'avoir capitabilisé dessus paie ;-)
+que ses méthodes de travail et d'intégrations sont bonnes, et qu'avoir capitalisé dessus paie ;-)
 - si elles sont négatives vis à vis de Gil, cela doit lui permettre de corriger le tir. Idem concernant l'équipe déjà en
 place, surtout si Gil n'est pas la première à les remonter. Dans tous les cas ici, le feebback se devra d'être constructif.
 
@@ -45,7 +45,7 @@ afférents.**
 ##### Echanges avec le métier: formation métier pour tous les nouveaux arrivants
 **En tant que développeur, nous transcrivons un besoin exprimé par le métier en code. De facto, si nous ne comprenons pas
 le métier, il sera dur de réaliser convenablement cette transformation en code.**
-Il est donc important de bien comprendre le métier sous jacent aux applications sur lesquelles nous travaillons.
+Il est donc important de bien comprendre le métier sous-jacent aux applications sur lesquelles nous travaillons.
 Pour ce faire, suivre une formation sur le métier peut s'avérer extrêmement utile.
 Cela peut paraître évident et pourtant bien souvent lorsqu'un développeur arrive sur un nouveau périmètre fonctionnel,
 on lui fait une courte présentation du métier et on le lâche sur le code. Le but étant de viser une rentabilité dès
@@ -53,23 +53,23 @@ l'arrivée de Gil T_T.
 Celui-ci se dépatouille tant bien que mal avec les objets d'un métier qu'il ne maîtrise pas, ce qui pourrait le frustrer
 et le pousser à partir. De plus le code produit serait certainement d'une qualité moindre dans ce cas-ci.
 
-**Former convenablement un nouveau sur le métier permet plus que sa bonne intégration, cela pemret aussi d'investir dans
+**Former convenablement un nouveau sur le métier permet plus que sa bonne intégration, cela permet aussi d'investir dans
 la qualité du code qu'il va produire.** De plus cela générera à moyen et long terme des économies plus importantes que le coût
 de la formation.
 
-##### Passer au tout début du temps avec le métier ou la QA afin de bien s'impregner du fonctionnel
+##### Passer au tout début du temps avec le métier ou la QA afin de bien s'imprégner du fonctionnel
 En plus de former de manière académique Gil sur le métier, le fait de lui faire passer du temps avec le métier ou
 la QA peut lui permettre de s'en imprégner encore plus fortement et aussi plus rapidement.
 Il partagera le même vocabulaire que le métier (ubiquitous language), et sera à même de mieux transcrire le besoin en
 code par la suite. **Cela permet aussi de rapprocher les équipes, d'améliorer leur communication, et de produire le plus
 constamment possible du code de qualité et de la valeur pour le métier.**
 Autre avantage, Gil voit aussi comment est utilisé le logiciel et quels sont les cas d'utilisation les plus fréquents.
-Mais aussi il peut voir ce qui auraient échappé au Bussiness Analyst (BA) ayant transcris le besoin du métier vers
+Mais aussi il peut voir ce qui auraient échappé au Business Analyst (BA) ayant transcris le besoin du métier vers
 les développeurs.
 
 ##### Macro vers Micro et Micro vers Macro:
-Lorsque Gil arrive, et qu'il ne connait pas le fonctionnel, il est important de le lui expliquer.
-Pour cela, on commence à lui expliquer dans les grandes lignes (Macro) ce qu'est le coeur de métier.
+Lorsque Gil arrive, et qu'il ne connaît pas le fonctionnel, il est important de le lui expliquer.
+Pour cela, on commence à lui expliquer dans les grandes lignes (Macro) ce qu'est le cœur de métier.
 Plus le temps passe, plus sa compréhension augmente, et plus on descend au niveau des détails (Micro).
 **On commence donc d'une explication fonctionnelle macroscopique vers une explication fonctionnelle microscopique.**
 
@@ -77,7 +77,7 @@ Concernant les développements, le cheminement est inversé, à savoir commencer
 plus généraliste possible (Macro) avec le temps.
 Vous ne pouvez pas décemment attendre du nouveau d'avoir une vision globale du ou des logiciels sur lesquels il va
 travailler en arrivant.
-Il faudra donc le faire monter en compétences et connaisances avec le temps, en enchaînant parfois par baby-steps en
+Il faudra donc le faire monter en compétences et connaissances avec le temps, en enchaînant parfois par baby-steps en
 fonction de la complexité rencontrée.
 **On commence donc par des développements spécifiques à faire (micro), et avec le temps passant on pourra lui attribuer des
 développements transverses (macro).**
@@ -99,7 +99,7 @@ dynamiquement de la documentation à jour.
 Si vous faites du BDD, chacun des tests que vous avez écrit correspond à un fonctionnement attendu de la part du métier
 (spécification par l'exemple). De plus ces tests présentent aussi les termes du métiers et permettent au nouveau de
 s'en imprégner encore un peu plus.
-Le fait de faire du pair programming y contribue aussi; la connaissance est trasmise de manière dynamique par la
+Le fait de faire du pair programming y contribue aussi; la connaissance est transmise de manière dynamique par la
 communication entre les pairs, les connaissances étant censées être à jour.
 
 Concernant ce point, je vous invite à lire le livre de Cyrille MARTRAIRE ([@Cyriux](https://twitter.com/cyriux?lang=fr))
@@ -125,12 +125,12 @@ d'autres avantages:
 - meilleure visibilité entre les parties entre ce qui est attendue et ce qui est livrée
 - et donc meilleure collaboration avec le client.
 Il en existe encore d'autres, le but n'étant pas de tous les lister ici mais de présenter ceux que vous proposer à votre
-hiéarchie afin de pouvoir la mettre en place.
+hiérarchie afin de pouvoir la mettre en place.
 
-#### Evénements
+#### Événements
 Pour certains d'entre nous, participer à différents types d’événements nous permet de rencontrer nos pairs, des gens
 ayants des intérêts communs avec nous et donc de nous intégrer à une communauté. C'est donc un moment d'échanges, qui
-nous permet de monter en compétence sur certains sujets. Certains développeurs en sont très friants.
+nous permet de monter en compétence sur certains sujets. Certains développeurs en sont très friands.
 Organisés ce type d’événements en interne ou permettre aux membres de vos équipes d'y participer peut grandement aider à
 conserver à plus ou moins long termes ces personnes, et faciliter aussi l’intégration de Gil qui verra que vous
 portez de l’attention à ses centres d'intérêts.
@@ -147,7 +147,7 @@ technologie/méthodologie vous savourez votre mets. Votre estomac ainsi que votr
 #### Meetup ou User Group
 Si vous pouvez le soir, pourquoi ne pas héberger un meetup ou un User Group. Un meetup est une rencontre informelle qui peut
 toucher tous les types de sujets. Les sujets peuvent être les mêmes que pour un BBL mais plutôt que de se limiter à une
-ou deux heures maximum le midi, ici il est possible de pousser cela un peu plus longtemps: trois aou quatre heures.
+ou deux heures maximum le midi, ici il est possible de pousser cela un peu plus longtemps: trois ou quatre heures.
 Cela aura aussi pour mérite de rencontrer des gens susceptibles d'être de futurs employés du fait de leur attraits
 communs avec ceux étant déjà en poste chez vous.
 N'oubliez pas dès lors de faire un effort sur les boissons et les "mets" que vous proposerez aux gens qui viendront
@@ -186,7 +186,7 @@ son départ.
 ### Conclusion
 Parfois Le processus d'onboarding sera efficace parfois non. Rien n'est absolu en ce sens. Si la personne ne reste pas,
 il faut essayer de comprendre ce qui n'a pas marché et corriger cela quand c'est possible. C'est en améliorant petit à
-petit ce porcessus, que l'on arrivera à maximiser l'intégration du nouveau et le retour à une vélocité de croisière.
+petit ce processus, que l'on arrivera à maximiser l'intégration du nouveau et le retour à une vélocité de croisière.
 
 Nous avons beaucoup parlé de comment bien intégrer Gil. **Il ne faut pas oublier non plus que Gil doit aussi
 faire des efforts pour s'intégrer. Ce n'est pas à sens unique.** Parfois des erreurs de casting peuvent se produire. Plutôt
@@ -194,7 +194,7 @@ que d'insister alors que l'on sait pertinemment que la sauce ne prend pas, il va
 trop de temps d'un côté comme de l'autre. Ce ne sera pas une expérience inutile dans ce cas non plus, car il vous sera
 encore possible d'apprendre de cette impair.
 
-Dans tous les cas rien n'étant jamais acquis, améliorez le plus possible vottre processus d'onboarding. Celui-ci évoluera,
+Dans tous les cas rien n'étant jamais acquis, améliorez le plus possible votre processus d'onboarding. Celui-ci évoluera,
 s'améliorera avec le temps et correspondra de plus en plus à votre équipe. Soyez aussi créatif, une touche d'originalité
 peut avoir beaucoup d'effets positifs sur l'intégration du nouveau et aussi sur l'équipe. Tout le monde y gagne ^^
 
